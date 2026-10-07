@@ -1,0 +1,39 @@
+# Private source material and derived working extracts
+sources/*
+!sources/.gitkeep
+private/
+extractions/
+*.pdf
+
+# Local state, credentials and databases
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite3
+*.db
+progress-*.json
+
+# Python and tooling
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+node_modules/
+.sites-runtime/
+dist/
+*.log
+.DS_Store
+tmp/
+cache/
+
+# Explicit source exclusion and local Flask state
+sources/*.pdf
+instance/
+*.sqlite3-wal
+*.sqlite3-shm
+*.db-journal
+.coverage.*

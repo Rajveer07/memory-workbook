@@ -1,0 +1,901 @@
+[
+  {
+    "id": "population-u001",
+    "chapter_id": "population",
+    "title": "Population chapter architecture",
+    "source_pages": [
+      40
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Introduction/theories → growth determinants → age/sex structure and growth phases → density/distribution → rapid-growth effects → control measures/models → delimitation and fertility concerns → way forward"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u002",
+    "chapter_id": "population",
+    "title": "UNFPA population profile",
+    "source_pages": [
+      41
+    ],
+    "kind": "data",
+    "recall_points": [
+      "146.39",
+      "most",
+      "24",
+      "68",
+      "7",
+      "1.9",
+      "71",
+      "74",
+      "2027",
+      "digital"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u003",
+    "chapter_id": "population",
+    "title": "Demography and population education",
+    "source_pages": [
+      42
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "Study of population size, composition and change through births, deaths and migration",
+      "Formal → quantitative study of demographic processes",
+      "Social → social causes and consequences of population change",
+      "Population growth",
+      "Family planning",
+      "Reproductive health",
+      "Sustainable development",
+      "Gender equity",
+      "Population stabilisation",
+      "Population change connects to reproductive health, gender equity and sustainable development → awareness of broader causes/consequences from a young age"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u004",
+    "chapter_id": "population",
+    "title": "NFHS population, nutrition and autonomy indicators",
+    "source_pages": [
+      43
+    ],
+    "kind": "data",
+    "recall_points": [
+      "25.5",
+      "29.3",
+      "19.0",
+      "31.8",
+      "82.6",
+      "69.1",
+      "55.8",
+      "89.0",
+      "2.0",
+      "67.1",
+      "NFHS-5",
+      "Overall sex ratio",
+      "Total Fertility Rate"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u005",
+    "chapter_id": "population",
+    "title": "Undernutrition diagram",
+    "source_pages": [
+      43,
+      44
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "Wasting → low weight for height",
+      "Stunting → low height for age",
+      "Underweight → low weight for age",
+      "Different reference dimensions: height-for-age, weight-for-height and weight-for-age → distinct indicators"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u006",
+    "chapter_id": "population",
+    "title": "Malthusian theory",
+    "source_pages": [
+      45
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "1798",
+      "Population grows geometrically; food production arithmetically → population outstrips subsistence resources → Malthusian catastrophe in the diagram",
+      "Preventive → delayed marriage, enforced celibacy",
+      "Positive → severe labour, epidemics, wars",
+      "Time on horizontal axis; quantity on vertical axis",
+      "Population curve accelerates; resources increase linearly",
+      "Intersection marks subsistence limit/catastrophe"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u007",
+    "chapter_id": "population",
+    "title": "Demographic transition diagram",
+    "source_pages": [
+      46
+    ],
+    "kind": "mechanism",
+    "recall_points": [
+      "High stationary: high birth/death rates, low increase",
+      "Early expanding: death rate falls while births stay high",
+      "Late expanding: birth rate declines, growth slows",
+      "Low stationary: low birth/death rates",
+      "Possible declining stage: births below deaths, natural decrease",
+      "Deaths fall + births remain high → wider births–deaths gap → natural increase → rapid expansion",
+      "Births can remain above deaths while declining → positive natural increase persists → population still grows, more slowly",
+      "Stage 1 → Congo",
+      "Stage 2 → Iran",
+      "Stage 3 → India",
+      "Stage 4 → China",
+      "Stage 5 → Japan",
+      "Early stages: broad base/young population",
+      "Later stages: base narrows, middle/older cohorts expand",
+      "Declining stage: smaller young cohorts relative to middle/older ages"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u008",
+    "chapter_id": "population",
+    "title": "Births, deaths and migration",
+    "source_pages": [
+      47,
+      48
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "Natural increase = births − deaths",
+      "Net migration = immigrants − emigrants",
+      "Total change = births − deaths + net migration",
+      "CBR: live births per 1,000 people per year",
+      "CDR: deaths per 1,000 people per year",
+      "18.3",
+      "6.4",
+      "11.9",
+      "Age at marriage",
+      "Contraception",
+      "Women’s education and employment",
+      "Income",
+      "Child survival",
+      "Population age structure",
+      "Healthcare, nutrition, sanitation",
+      "Epidemics",
+      "Conflict and disasters",
+      "Births minus deaths excludes migration",
+      "Immigration/emigration change the population too → add net migration"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u009",
+    "chapter_id": "population",
+    "title": "Infant mortality",
+    "source_pages": [
+      49
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "1",
+      "1,000",
+      "24",
+      "Prematurity and low birth weight",
+      "Birth complications/newborn infections",
+      "Limited timely newborn care",
+      "Incomplete immunisation/poor nutrition",
+      "Early pregnancy/inadequate maternal care",
+      "Early pregnancy/inadequate maternal care + birth complications/infections → risk",
+      "Timely newborn care, nutrition and immunisation address these risks"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u010",
+    "chapter_id": "population",
+    "title": "Maternal mortality",
+    "source_pages": [
+      50
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "100,000",
+      "2022",
+      "2024",
+      "87",
+      "Haemorrhage, infection, high blood pressure",
+      "Obstructed labour, unsafe abortion",
+      "Anaemia/underlying illness",
+      "Delayed skilled/emergency care",
+      "Early pregnancy, limited reproductive autonomy",
+      "Medical complications require skilled/emergency care",
+      "Early pregnancy and restricted reproductive decisions create additional risk → health services and autonomy both matter"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u011",
+    "chapter_id": "population",
+    "title": "Fertility and replacement",
+    "source_pages": [
+      51
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "TFR: average children born to a woman over her lifetime",
+      "Replacement level: fertility at which one generation replaces the previous generation",
+      "1.9",
+      "2.1",
+      "Age composition",
+      "Age at marriage/marriage duration",
+      "Sex ratio and migration",
+      "Religion and individual decisions",
+      "Income/living standard",
+      "Climate/environment",
+      "Joint-family system",
+      "Attitudes to vasectomy/tubectomy",
+      "Recreational facilities",
+      "Male-selective migration → urban population has more men → altered sex composition → lower TFR, as stated in the slide",
+      "6.18",
+      "4.60",
+      "1.91",
+      "1.29",
+      "1.04",
+      "Single asterisk → below replacement level of 2.1",
+      "Double asterisk → projection"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u012",
+    "chapter_id": "population",
+    "title": "Sex ratio and dependency",
+    "source_pages": [
+      52
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "Sex ratio: females per 1,000 males",
+      "Child sex ratio: girls per 1,000 boys in the 0–6 age group",
+      "1020",
+      "940",
+      "919",
+      "1084",
+      "877",
+      "1023",
+      "903",
+      "Kerala: male-selective outmigration → higher female/male ratio",
+      "Haryana: male-selective immigration → lower female/male ratio",
+      "Northwest below northeast and south",
+      "Christian and tribal belts have better sex ratios",
+      "(Population aged 0–14 + population above 65) ÷ population aged 15–64"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u013",
+    "chapter_id": "population",
+    "title": "India’s demographic-growth phases",
+    "source_pages": [
+      53
+    ],
+    "kind": "mechanism",
+    "recall_points": [
+      "Stagnant → high birth and death rates",
+      "Steady growth → death-rate decline; mortality-induced growth",
+      "Rapid high growth → population explosion",
+      "High growth with slowing signs → growth deceleration",
+      "1901",
+      "1921",
+      "1951",
+      "1981",
+      "2011",
+      "-0.31",
+      "2.48",
+      "1971",
+      "1.76",
+      "Death rate declined considerably while births persisted → births exceeded deaths → steady population increase",
+      "48",
+      "49",
+      "36",
+      "16",
+      "20",
+      "6",
+      "1901–1961 → Mukherji (1976)",
+      "1971–2017 → annual statistical reports of Sample Registration System",
+      "Death rate falls earlier → births–deaths gap expands → growth accelerates",
+      "Later birth-rate decline → gap narrows → growth slows"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u014",
+    "chapter_id": "population",
+    "title": "Density categories and map",
+    "source_pages": [
+      54
+    ],
+    "kind": "data",
+    "recall_points": [
+      "1000",
+      "500",
+      "250",
+      "100",
+      "Very high: Chandigarh, Puducherry, Daman & Diu; Delhi, Bihar, West Bengal",
+      "High: UP, Kerala, Tamil Nadu, Punjab, Haryana → agriculture/industry based",
+      "Gujarat, Karnataka, Andhra Pradesh, Tripura",
+      "Maharashtra, Jharkhand, Assam, Goa",
+      "Low: Meghalaya, Manipur, Himachal Pradesh, Nagaland, Chhattisgarh, Uttarakhand, Rajasthan, Madhya Pradesh",
+      "Extremely low: Arunachal Pradesh, Mizoram, Andaman & Nicobar Islands, Sikkim",
+      "300",
+      "550"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u015",
+    "chapter_id": "population",
+    "title": "Factors shaping distribution",
+    "source_pages": [
+      55
+    ],
+    "kind": "mechanism",
+    "recall_points": [
+      "Climate",
+      "Soil fertility",
+      "Altitude",
+      "Industries",
+      "Mineral resources",
+      "Urbanisation",
+      "Transport connectivity",
+      "Hot/dry deserts and high hills → low population",
+      "Rainy plains, alluvial north, deltas/coasts → high density",
+      "Kutch and Terai → low density in this slide",
+      "Industry → jobs → immigration → higher population",
+      "Mineral resources → concentration in Chota Nagpur Plateau",
+      "60"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u016",
+    "chapter_id": "population",
+    "title": "Rapid-growth consequences",
+    "source_pages": [
+      56
+    ],
+    "kind": "mechanism",
+    "recall_points": [
+      "2.4",
+      "17",
+      "Unemployment, underemployment, disguised unemployment",
+      "Infrastructure pressure: overcrowding, slums, traffic",
+      "Land/natural-resource pressure",
+      "Inequality and poverty",
+      "Civil unrest",
+      "Population increase → pressure on jobs, infrastructure and resources → overcrowding/slums/traffic and poverty/inequality → potential civil unrest"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u017",
+    "chapter_id": "population",
+    "title": "Demographic dividend and enabling conditions",
+    "source_pages": [
+      57,
+      58,
+      59
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "Rising working-age share relative to dependants → potential economic/social benefits",
+      "Requires human capital, skills, employment and women’s participation",
+      "15",
+      "64",
+      "65",
+      "2018",
+      "2055",
+      "37",
+      "Unemployed/frustrated youth → unrest; Arab Spring",
+      "Poor human capital",
+      "Low female LFPR",
+      "Skill gap",
+      "Skill India and PMKVY",
+      "USTAAD → minority skill mentoring",
+      "Self Employment and Talent Utilization",
+      "Stand Up India/Start Up India",
+      "MOOCs → SWAYAM",
+      "Nai Roshni → women’s participation",
+      "NEP implementation and vocational training",
+      "Higher female LFPR",
+      "Fourth Industrial Revolution and AI opportunities",
+      "Entrepreneurship/startup support",
+      "2020",
+      "Women’s care/work constraints reduce participation",
+      "Skills + enabling conditions + women’s employment → fuller use of working-age population → demographic-dividend potential",
+      "demographic dividend"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u018",
+    "chapter_id": "population",
+    "title": "Five-Year Plan population measures",
+    "source_pages": [
+      60
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "First → programme, growth factors, planning knowledge, hospital integration",
+      "Second → education/research",
+      "Third → Copper T and independent family-planning department",
+      "Fourth → all birth-control methods",
+      "Fifth → population policy, maternal/child health/nutrition, marriage age, incentives and delimitation base",
+      "1951",
+      "1956",
+      "1961",
+      "1966",
+      "1969",
+      "1974",
+      "1978",
+      "1971"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u019",
+    "chapter_id": "population",
+    "title": "Family welfare and National Health Policy",
+    "source_pages": [
+      61
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "Post-1970s → family welfare",
+      "1990s → voluntary approach integrated with education, health, maternity/childcare, women’s rights, nutrition and anti-poverty programmes",
+      "2017",
+      "2.5",
+      "2025",
+      "1.43",
+      "70",
+      "70.6",
+      "2.1",
+      "1.9",
+      "23",
+      "28",
+      "90",
+      "95",
+      "Know HIV status",
+      "Those knowing status receive ART",
+      "Those on ART achieve viral-load suppression",
+      "85",
+      "87.1",
+      "Increase density of paramedics and community health volunteers"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u020",
+    "chapter_id": "population",
+    "title": "National Population Policy objectives",
+    "source_pages": [
+      62
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "2000",
+      "2.1",
+      "2010",
+      "2045",
+      "Immediate → address unmet contraception needs",
+      "Medium → replacement-level TFR",
+      "Long → stable population",
+      "Proper spacing between children",
+      "Free/compulsory education",
+      "Delayed marriage for adolescent girls",
+      "Information and counselling access",
+      "14",
+      "30",
+      "100",
+      "80",
+      "Fertility choices depend on knowledge, life opportunities and timing → services + education/counselling support spacing and family-size decisions"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u021",
+    "chapter_id": "population",
+    "title": "Current family-planning initiatives",
+    "source_pages": [
+      63,
+      64
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "State/district committees → monitor service quality",
+      "National Family Planning Indemnity Scheme → insurance for unforeseen sterilisation deaths/complications",
+      "Posters, billboards, audiovisuals → contraceptive choices and healthy timing/spacing",
+      "Non-scalpel vasectomy → less invasive, shorter recovery",
+      "MBBS qualification sufficient to perform it; no specialisation required, as stated in the source",
+      "Home delivery of contraceptives",
+      "Spacing counselling",
+      "Post Partum Intra Uterine Contraceptive Device",
+      "More reproductive/maternal/newborn/child-health counsellors",
+      "7",
+      "6",
+      "Approved through states’ Programme Implementation Plans according to their needs",
+      "Home delivery → access",
+      "Counselling → informed choices/spacing",
+      "Quality assurance → service quality",
+      "Indemnity → protection against unforeseen complications"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u022",
+    "chapter_id": "population",
+    "title": "China’s policy sequence and ageing",
+    "source_pages": [
+      65
+    ],
+    "kind": "data",
+    "recall_points": [
+      "1980",
+      "2016",
+      "2021",
+      "2022",
+      "140.49",
+      "33.9",
+      "23.0",
+      "15.9",
+      "Birth limitation → later permission for more births",
+      "Population decline and ageing → shift from controlling growth to fertility concerns"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u023",
+    "chapter_id": "population",
+    "title": "Indian state models",
+    "source_pages": [
+      66
+    ],
+    "kind": "mechanism",
+    "recall_points": [
+      "Social reform → women/marginalised empowerment",
+      "Matrilineal system",
+      "Empowered village Panchayats",
+      "Outmigration → increased income",
+      "Active media",
+      "Male sterilisation: Ernakulam camp",
+      "TN → reform/small-family norm; early midday meals",
+      "Himachal → limited land, male outmigration, women’s empowerment; agriculture/apple orchards/horticulture",
+      "AP → cinema awareness ads; state population policy",
+      "Limited land → male outmigration → women’s empowerment",
+      "Agriculture, apple orchards and horticulture → economic empowerment",
+      "1997",
+      "Social reform and empowerment",
+      "Income/livelihood changes",
+      "Local governance",
+      "Media awareness",
+      "Small-family norms and male participation"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u024",
+    "chapter_id": "population",
+    "title": "Delimitation, representation and federal concerns",
+    "source_pages": [
+      67,
+      70
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "1971",
+      "2027",
+      "106th",
+      "Freeze does not expire into an automatic exercise",
+      "Next key milestone is Census 2027",
+      "Women’s reservation linked to post-census delimitation",
+      "More equal population per MP and manageable constituencies",
+      "Versus protecting political weight of states that achieved lower growth",
+      "Balance electoral equality with federal structure",
+      "Changed state-seat allocation → possible changes in distribution/location of SC/ST reserved constituencies",
+      "For: reduce population-per-MP disparities; more MPs ease representation; reflect population changes",
+      "Concerns: some states lose relative seat share; family-planning success should not reduce political weight; federal balance"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u025",
+    "chapter_id": "population",
+    "title": "Proposed delimitation illustrations",
+    "source_pages": [
+      68,
+      69
+    ],
+    "kind": "data",
+    "recall_points": [
+      "2011",
+      "850",
+      "131st",
+      "April",
+      "24.3",
+      "20.7",
+      "38.1",
+      "43.1",
+      "48.7",
+      "14.4",
+      "13.7",
+      "76.8",
+      "33.3",
+      "4.4",
+      "3.8",
+      "58.3",
+      "4.5",
+      "56.4",
+      "14.3",
+      "56.5",
+      "13",
+      "10",
+      "8",
+      "3",
+      "-2",
+      "-8",
+      "-11",
+      "Its seat increase can be smaller than the total increase → its proportion of all seats falls despite an absolute increase"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u026",
+    "chapter_id": "population",
+    "title": "State fertility-support developments",
+    "source_pages": [
+      71
+    ],
+    "kind": "data",
+    "recall_points": [
+      "25 August 2026",
+      "12",
+      "365",
+      "30,000",
+      "40,000",
+      "one",
+      "1 January 2023",
+      "Tamil Nadu: G.O.; eligible woman government employee, third-child leave",
+      "AP: Chief Minister’s announcement of cash support",
+      "Sikkim: notified employee scheme; either spouse may claim increments"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u027",
+    "chapter_id": "population",
+    "title": "Reproductive choice and family care",
+    "source_pages": [
+      72
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Limiting births → supporting reproductive choice and family care",
+      "Address ageing + childcare + women’s employment together",
+      "Birth incentives alone may have limited impact",
+      "Resolve delimitation through representation policy, not fertility targets",
+      "Issue is allocation of political representation/federal balance → requires representation rules",
+      "Fertility policy should support reproductive choice and family care",
+      "Fertility connects to childcare, women’s work, reproductive choice and ageing → cash incentives alone do not address the wider family-care conditions"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u028",
+    "chapter_id": "population",
+    "title": "Population — chapter reconstruction",
+    "source_pages": [
+      40,
+      42,
+      45,
+      46,
+      47,
+      51,
+      52,
+      53,
+      54,
+      57,
+      62,
+      66,
+      67,
+      72
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Demography",
+      "Malthus",
+      "Transition",
+      "Birth/death rates",
+      "Migration",
+      "IMR/MMR",
+      "TFR",
+      "Replacement",
+      "Sex/dependency ratios",
+      "Growth phases",
+      "Density",
+      "Demographic dividend",
+      "Family welfare",
+      "Delimitation",
+      "Reproductive choice",
+      "Births − deaths + net migration → population change",
+      "Falling deaths before births → expansion",
+      "Later fertility decline → slower growth/ageing",
+      "Age structure + human capital + employment → dividend potential",
+      "Policy shifts from birth limits toward choice/family care"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u029",
+    "chapter_id": "population",
+    "title": "Population — data and indicators",
+    "source_pages": [
+      41,
+      43,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      57,
+      61,
+      62
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "UNFPA 2025: 146.39 crore; working-age share 68%; TFR 1.9",
+      "SRS 2024: CBR 18.3, CDR 6.4 per 1,000 people; IMR 24 per 1,000 births",
+      "SRS 2022–24: MMR 87 per 100,000 births",
+      "NFHS-6 page 43: TFR 2.0",
+      "NFHS-5 page 52: sex ratio 1020 per 1,000 males",
+      "Replacement TFR 2.1",
+      "TFR: UNFPA/current text 1.9 vs NFHS-6 2.0",
+      "Working-age share: UNFPA 68% vs undated dividend slide 65%",
+      "Full vaccination: page 43 82.6% vs card-based page 61 87.1%",
+      "Current SRS rates versus historical graph labels",
+      "Observed fertility versus future projections"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u030",
+    "chapter_id": "population",
+    "title": "Population — women, health and dividend",
+    "source_pages": [
+      15,
+      17,
+      47,
+      49,
+      50,
+      51,
+      57,
+      59,
+      62,
+      66,
+      72
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Education/employment/autonomy affect fertility choices",
+      "Early pregnancy and poor care worsen maternal/infant risks",
+      "Counselling, contraception and spacing support choice",
+      "Skills + women’s participation → utilise working-age opportunity",
+      "Childcare and family care connect fertility concerns with employment",
+      "Working-age opportunity without skills, human capital and jobs → frustrated/unemployed youth → unrest",
+      "Arab Spring example",
+      "Education, vocational skills, entrepreneurship and female participation are enabling conditions"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u031",
+    "chapter_id": "population",
+    "title": "Population — policy evolution and models",
+    "source_pages": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      71,
+      72
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Early Plans: programmes/research/contraceptive methods",
+      "Fifth Plan: policy, maternal-child health, marriage age/incentives",
+      "Family welfare → voluntary integrated approach",
+      "NPP: contraception, replacement, stability",
+      "Current initiatives: access, quality, counselling",
+      "China decline/ageing and state incentives → reproductive choice/family care",
+      "China: restrictive child-number policy → later relaxation amid ageing/decline",
+      "Kerala: reform, women’s empowerment, Panchayats, income/media/male sterilisation",
+      "TN: reform/small-family norm and meals",
+      "Himachal: outmigration/livelihood empowerment",
+      "AP: media and state policy"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "population-u032",
+    "chapter_id": "population",
+    "title": "Population — distribution and federal logic",
+    "source_pages": [
+      53,
+      54,
+      55,
+      56,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Climate/soil/jobs/connectivity → uneven distribution",
+      "Concentration → infrastructure/resource pressure",
+      "Different growth rates → unequal population per MP",
+      "Seat readjustment → equality versus federal/family-planning concerns",
+      "Population-based seats can improve population-per-MP equality",
+      "Lower-growth states fear reduced relative political weight",
+      "Proposed illustrations are not enacted allocations",
+      "Representation reform must balance federalism",
+      "Fertility policy should support choice/care, not political seat targets"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  }
+]

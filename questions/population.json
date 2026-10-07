@@ -1,0 +1,6300 @@
+[
+  {
+    "id": "population-q001",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u001"
+    ],
+    "source_pages": [
+      40
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Population chapter architecture"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the population chapter’s main sections.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Introduction/theories → growth determinants → age/sex structure and growth phases → density/distribution → rapid-growth effects → control measures/models → delimitation and fertility concerns → way forward"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q002",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u002"
+    ],
+    "source_pages": [
+      41
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "UNFPA population profile"
+    ],
+    "quick_recall": true,
+    "prompt": "UNFPA 2025 estimates India’s population at {{b1}} crore and describes it as the world’s {{b2}} populous country.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "146.39",
+        "most"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "146.39",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "most",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "population-q003",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u002"
+    ],
+    "source_pages": [
+      41
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "UNFPA population profile"
+    ],
+    "quick_recall": true,
+    "prompt": "UNFPA 2025 age shares: ages 0–14 {{b1}}%; ages 15–64 {{b2}}%; ages 65+ {{b3}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "24",
+        "68",
+        "7"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "24",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "68",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "7",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q004",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u002"
+    ],
+    "source_pages": [
+      41
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "UNFPA population profile"
+    ],
+    "quick_recall": true,
+    "prompt": "UNFPA 2025: India’s TFR is {{b1}} children per woman; life expectancy at birth is {{b2}} years for males and {{b3}} for females.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1.9",
+        "71",
+        "74"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1.9",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "71",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "74",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q005",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u002"
+    ],
+    "source_pages": [
+      41
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "UNFPA population profile"
+    ],
+    "quick_recall": true,
+    "prompt": "The introduction names Census {{b1}} as the world’s first {{b2}} census.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2027",
+        "digital"
+      ]
+    },
+    "source_note": "Description retained from the supplied source.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2027",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "digital",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "population-q006",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u003"
+    ],
+    "source_pages": [
+      42
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Demography and population education"
+    ],
+    "quick_recall": true,
+    "prompt": "Define demography.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Study of population size, composition and change through births, deaths and migration"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q007",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u003"
+    ],
+    "source_pages": [
+      42
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Demography and population education"
+    ],
+    "quick_recall": true,
+    "prompt": "Distinguish formal and social demography.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Formal → quantitative study of demographic processes",
+        "Social → social causes and consequences of population change"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q008",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u003"
+    ],
+    "source_pages": [
+      42
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Demography and population education"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the concerns covered by population education.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Population growth",
+        "Family planning",
+        "Reproductive health",
+        "Sustainable development",
+        "Gender equity",
+        "Population stabilisation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q009",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u003"
+    ],
+    "source_pages": [
+      42
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Demography and population education"
+    ],
+    "quick_recall": false,
+    "prompt": "Why does population education extend beyond birth control?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Population change connects to reproductive health, gender equity and sustainable development → awareness of broader causes/consequences from a young age"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q010",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "On page 43, NFHS-6 (2023–24) reports population below age 15 at {{b1}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "25.5"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "25.5",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q011",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "On page 43, NFHS-6 (2023–24) reports stunting among children under five at {{b1}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "29.3"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "29.3",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q012",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "On page 43, NFHS-6 (2023–24) reports wasting among children under five at {{b1}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "19.0"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "19.0",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q013",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "On page 43, NFHS-6 (2023–24) reports underweight among children under five at {{b1}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "31.8"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "31.8",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q014",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "On page 43, NFHS-6 (2023–24) reports fully vaccinated children aged 12–23 months at {{b1}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "82.6"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "82.6",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q015",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "On page 43, NFHS-6 (2023–24) reports contraceptive use among currently married women at {{b1}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "69.1"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "69.1",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q016",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "On page 43, NFHS-6 (2023–24) reports exclusive breastfeeding among infants under six months at {{b1}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "55.8"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "55.8",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q017",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "On page 43, NFHS-6 (2023–24) reports women using their own bank or savings account at {{b1}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "89.0"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "89.0",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q018",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "The NFHS-6 (2023–24) TFR given on page 43 is {{b1}} children per woman.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2.0"
+      ]
+    },
+    "source_note": "UNFPA 2025/page 41 gives 1.9; recall each with its stated source.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2.0",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q019",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "Anaemia among children aged 6–59 months is {{b1}}% under {{b2}} (2019–21); page 43 says no NFHS-6 figure has been released.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "67.1",
+        "NFHS-5"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "67.1",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "NFHS-5",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "population-q020",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "Which updated NFHS-6 measure does the page explicitly say is not reported?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Overall sex ratio"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q021",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u005"
+    ],
+    "source_pages": [
+      43,
+      44
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Undernutrition diagram"
+    ],
+    "quick_recall": true,
+    "prompt": "Distinguish wasting, stunting and underweight using the diagram.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Wasting → low weight for height",
+        "Stunting → low height for age",
+        "Underweight → low weight for age"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q022",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u005"
+    ],
+    "source_pages": [
+      43,
+      44
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Undernutrition diagram"
+    ],
+    "quick_recall": false,
+    "prompt": "Why should the three child-undernutrition figures not be treated as interchangeable?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Different reference dimensions: height-for-age, weight-for-height and weight-for-age → distinct indicators"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q160",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u004"
+    ],
+    "source_pages": [
+      43
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "NFHS population, nutrition and autonomy indicators"
+    ],
+    "quick_recall": true,
+    "prompt": "The figure 2.0 children per woman in the NFHS-6 (2023–24) findings refers to {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Total Fertility Rate"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "Total Fertility Rate",
+        "accepted_answers": [
+          "TFR",
+          "total fertility rate"
+        ],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "population-q023",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u006"
+    ],
+    "source_pages": [
+      45
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Malthusian theory"
+    ],
+    "quick_recall": true,
+    "prompt": "T.R. Malthus’s prediction is dated {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1798"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1798",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q024",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u006"
+    ],
+    "source_pages": [
+      45
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Malthusian theory"
+    ],
+    "quick_recall": false,
+    "prompt": "Reproduce the Malthusian population–food reasoning chain.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Population grows geometrically; food production arithmetically → population outstrips subsistence resources → Malthusian catastrophe in the diagram"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q025",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u006"
+    ],
+    "source_pages": [
+      45
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Malthusian theory"
+    ],
+    "quick_recall": true,
+    "prompt": "Distinguish preventive measures and positive checks in the Malthus discussion.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Preventive → delayed marriage, enforced celibacy",
+        "Positive → severe labour, epidemics, wars"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q026",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u006"
+    ],
+    "source_pages": [
+      45
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Malthusian theory"
+    ],
+    "quick_recall": false,
+    "prompt": "What do the axes and intersecting curves in the Malthus diagram represent?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Time on horizontal axis; quantity on vertical axis",
+        "Population curve accelerates; resources increase linearly",
+        "Intersection marks subsistence limit/catastrophe"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q027",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u007"
+    ],
+    "source_pages": [
+      46
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Demographic transition diagram"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the five stages in the demographic transition diagram.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "High stationary: high birth/death rates, low increase",
+        "Early expanding: death rate falls while births stay high",
+        "Late expanding: birth rate declines, growth slows",
+        "Low stationary: low birth/death rates",
+        "Possible declining stage: births below deaths, natural decrease"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q028",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u007"
+    ],
+    "source_pages": [
+      46
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Demographic transition diagram"
+    ],
+    "quick_recall": false,
+    "prompt": "Why does population expand rapidly when death rates fall before birth rates?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Deaths fall + births remain high → wider births–deaths gap → natural increase → rapid expansion"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q029",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u007"
+    ],
+    "source_pages": [
+      46
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Demographic transition diagram"
+    ],
+    "quick_recall": false,
+    "prompt": "Why does a falling birth rate not necessarily mean immediate population decline in the diagram?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Births can remain above deaths while declining → positive natural increase persists → population still grows, more slowly"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q030",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u007"
+    ],
+    "source_pages": [
+      46
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Demographic transition diagram"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the country examples attached to the five stages in this slide.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Stage 1 → Congo",
+        "Stage 2 → Iran",
+        "Stage 3 → India",
+        "Stage 4 → China",
+        "Stage 5 → Japan"
+      ]
+    },
+    "source_note": "These are illustrative slide labels, not independently updated country classifications."
+  },
+  {
+    "id": "population-q031",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u007"
+    ],
+    "source_pages": [
+      46
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Demographic transition diagram"
+    ],
+    "quick_recall": false,
+    "prompt": "How do the age-structure shapes change across the demographic-transition illustration?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Early stages: broad base/young population",
+        "Later stages: base narrows, middle/older cohorts expand",
+        "Declining stage: smaller young cohorts relative to middle/older ages"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q032",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u008"
+    ],
+    "source_pages": [
+      47,
+      48
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Births, deaths and migration"
+    ],
+    "quick_recall": true,
+    "prompt": "Reconstruct the three population-change equations.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Natural increase = births − deaths",
+        "Net migration = immigrants − emigrants",
+        "Total change = births − deaths + net migration"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q033",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u008"
+    ],
+    "source_pages": [
+      47,
+      48
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Births, deaths and migration"
+    ],
+    "quick_recall": true,
+    "prompt": "Define crude birth rate and crude death rate, retaining the denominator and period.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "CBR: live births per 1,000 people per year",
+        "CDR: deaths per 1,000 people per year"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q034",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u008"
+    ],
+    "source_pages": [
+      47,
+      48
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Births, deaths and migration"
+    ],
+    "quick_recall": true,
+    "prompt": "SRS 2024: India’s CBR is {{b1}} and CDR {{b2}} per 1,000 people; natural increase is {{b3}} per 1,000, excluding migration.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "18.3",
+        "6.4",
+        "11.9"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "18.3",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "6.4",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "11.9",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q035",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u008"
+    ],
+    "source_pages": [
+      47,
+      48
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Births, deaths and migration"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the factors influencing crude birth rate.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Age at marriage",
+        "Contraception",
+        "Women’s education and employment",
+        "Income",
+        "Child survival"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q036",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u008"
+    ],
+    "source_pages": [
+      47,
+      48
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Births, deaths and migration"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the factors influencing crude death rate.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Population age structure",
+        "Healthcare, nutrition, sanitation",
+        "Epidemics",
+        "Conflict and disasters"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q037",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u008"
+    ],
+    "source_pages": [
+      47,
+      48
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Births, deaths and migration"
+    ],
+    "quick_recall": false,
+    "prompt": "Why is natural increase insufficient to measure total population change?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Births minus deaths excludes migration",
+        "Immigration/emigration change the population too → add net migration"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q038",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u009"
+    ],
+    "source_pages": [
+      49
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Infant mortality"
+    ],
+    "quick_recall": true,
+    "prompt": "IMR counts deaths before age {{b1}} per {{b2}} live births; SRS 2024 gives India’s IMR as {{b3}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1",
+        "1,000",
+        "24"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1,000",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "24",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q039",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u009"
+    ],
+    "source_pages": [
+      49
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Infant mortality"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the five groups of factors influencing infant mortality.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Prematurity and low birth weight",
+        "Birth complications/newborn infections",
+        "Limited timely newborn care",
+        "Incomplete immunisation/poor nutrition",
+        "Early pregnancy/inadequate maternal care"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q040",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u009"
+    ],
+    "source_pages": [
+      49
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Infant mortality"
+    ],
+    "quick_recall": false,
+    "prompt": "How can access to maternal and newborn care influence infant survival?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Early pregnancy/inadequate maternal care + birth complications/infections → risk",
+        "Timely newborn care, nutrition and immunisation address these risks"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q041",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u010"
+    ],
+    "source_pages": [
+      50
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Maternal mortality"
+    ],
+    "quick_recall": true,
+    "prompt": "MMR is maternal deaths per {{b1}} live births; India’s SRS {{b2}}–{{b3}} value is {{b4}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "100,000",
+        "2022",
+        "2024",
+        "87"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "100,000",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2022",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "2024",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "87",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q042",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u010"
+    ],
+    "source_pages": [
+      50
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Maternal mortality"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the medical and access/autonomy factors affecting maternal mortality.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Haemorrhage, infection, high blood pressure",
+        "Obstructed labour, unsafe abortion",
+        "Anaemia/underlying illness",
+        "Delayed skilled/emergency care",
+        "Early pregnancy, limited reproductive autonomy"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q043",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u010"
+    ],
+    "source_pages": [
+      50
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Maternal mortality"
+    ],
+    "quick_recall": false,
+    "prompt": "Why does the maternal-mortality discussion require both healthcare and reproductive autonomy?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Medical complications require skilled/emergency care",
+        "Early pregnancy and restricted reproductive decisions create additional risk → health services and autonomy both matter"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q044",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": true,
+    "prompt": "Define TFR and replacement-level fertility as described in the material.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "TFR: average children born to a woman over her lifetime",
+        "Replacement level: fertility at which one generation replaces the previous generation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q045",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": true,
+    "prompt": "Page 51 states current TFR as {{b1}} and replacement-level fertility as {{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1.9",
+        "2.1"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1.9",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2.1",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q046",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the determinants of TFR in this chapter.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Age composition",
+        "Age at marriage/marriage duration",
+        "Sex ratio and migration",
+        "Religion and individual decisions",
+        "Income/living standard",
+        "Climate/environment",
+        "Joint-family system",
+        "Attitudes to vasectomy/tubectomy",
+        "Recreational facilities"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q047",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": false,
+    "prompt": "How does the chapter connect male migration into urban areas with lower fertility?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Male-selective migration → urban population has more men → altered sex composition → lower TFR, as stated in the slide"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q048",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": true,
+    "prompt": "The page-51 Lancet-attributed chart shows TFR for 1950 at {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "6.18"
+      ]
+    },
+    "source_note": "Chart values are separate from the current-value text; 2050 and 2100 are projections.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "6.18",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q049",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": true,
+    "prompt": "The page-51 Lancet-attributed chart shows TFR for 1980 at {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "4.60"
+      ]
+    },
+    "source_note": "Chart values are separate from the current-value text; 2050 and 2100 are projections.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "4.60",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q050",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": true,
+    "prompt": "The page-51 Lancet-attributed chart shows TFR for 2021 at {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1.91"
+      ]
+    },
+    "source_note": "Chart values are separate from the current-value text; 2050 and 2100 are projections.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1.91",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q051",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": true,
+    "prompt": "The page-51 Lancet-attributed chart projects TFR for 2050 at {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1.29"
+      ]
+    },
+    "source_note": "Chart values are separate from the current-value text; 2050 and 2100 are projections.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1.29",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q052",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": true,
+    "prompt": "The page-51 Lancet-attributed chart projects TFR for 2100 at {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1.04"
+      ]
+    },
+    "source_note": "Chart values are separate from the current-value text; 2050 and 2100 are projections.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1.04",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q053",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u011"
+    ],
+    "source_pages": [
+      51
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Fertility and replacement"
+    ],
+    "quick_recall": true,
+    "prompt": "What do the asterisks in the fertility chart distinguish?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Single asterisk → below replacement level of 2.1",
+        "Double asterisk → projection"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q054",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u012"
+    ],
+    "source_pages": [
+      52
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Sex ratio and dependency"
+    ],
+    "quick_recall": true,
+    "prompt": "Define sex ratio and distinguish it from child sex ratio.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Sex ratio: females per 1,000 males",
+        "Child sex ratio: girls per 1,000 boys in the 0–6 age group"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q055",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u012"
+    ],
+    "source_pages": [
+      52
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Sex ratio and dependency"
+    ],
+    "quick_recall": true,
+    "prompt": "Page 52 gives overall sex ratio as {{b1}} under NFHS-5 and {{b2}} under Census 2011; child sex ratio is {{b3}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1020",
+        "940",
+        "919"
+      ]
+    },
+    "source_note": "Census value retained exactly as written in the supplied slide.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1020",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "940",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "919",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q056",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u012"
+    ],
+    "source_pages": [
+      52
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Sex ratio and dependency"
+    ],
+    "quick_recall": true,
+    "prompt": "Page 52 gives Kerala’s sex ratio as {{b1}} and Haryana’s as {{b2}} females per 1,000 males.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1084",
+        "877"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1084",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "877",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q057",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u012"
+    ],
+    "source_pages": [
+      52
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Sex ratio and dependency"
+    ],
+    "quick_recall": true,
+    "prompt": "The religious-group sex ratios on page 52 are {{b1}} for Christians and {{b2}} for Sikhs.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1023",
+        "903"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1023",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "903",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q058",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u012"
+    ],
+    "source_pages": [
+      52
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Sex ratio and dependency"
+    ],
+    "quick_recall": false,
+    "prompt": "How does sex-selective migration explain the Kerala–Haryana contrast given in the material?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Kerala: male-selective outmigration → higher female/male ratio",
+        "Haryana: male-selective immigration → lower female/male ratio"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q059",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u012"
+    ],
+    "source_pages": [
+      52
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Sex ratio and dependency"
+    ],
+    "quick_recall": true,
+    "prompt": "Recall the regional and community pattern of sex ratio described in the slide.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Northwest below northeast and south",
+        "Christian and tribal belts have better sex ratios"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q060",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u012"
+    ],
+    "source_pages": [
+      52
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Sex ratio and dependency"
+    ],
+    "quick_recall": true,
+    "prompt": "Reconstruct the dependency-ratio formula in the source.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "(Population aged 0–14 + population above 65) ÷ population aged 15–64"
+      ]
+    },
+    "source_note": "The slide writes “>65” in this formula and “65+” elsewhere; source wording retained."
+  },
+  {
+    "id": "population-q061",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u013"
+    ],
+    "source_pages": [
+      53
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "India’s demographic-growth phases"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct India’s four demographic-growth phases and their mechanisms.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Stagnant → high birth and death rates",
+        "Steady growth → death-rate decline; mortality-induced growth",
+        "Rapid high growth → population explosion",
+        "High growth with slowing signs → growth deceleration"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q062",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u013"
+    ],
+    "source_pages": [
+      53
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "India’s demographic-growth phases"
+    ],
+    "quick_recall": true,
+    "prompt": "India’s four phases in the chapter span {{b1}}–{{b2}}, {{b3}}–{{b4}}, {{b5}}–{{b6}} and {{b7}}–{{b8}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1901",
+        "1921",
+        "1921",
+        "1951",
+        "1951",
+        "1981",
+        "1981",
+        "2011"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1901",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1921",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "1921",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "1951",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b5",
+        "answer": "1951",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b6",
+        "answer": "1981",
+        "accepted_answers": [],
+        "label": "Blank 6",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b7",
+        "answer": "1981",
+        "accepted_answers": [],
+        "label": "Blank 7",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b8",
+        "answer": "2011",
+        "accepted_answers": [],
+        "label": "Blank 8",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q063",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u013"
+    ],
+    "source_pages": [
+      53
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "India’s demographic-growth phases"
+    ],
+    "quick_recall": true,
+    "prompt": "The slide records negative growth of {{b1}} in {{b2}}; highest growth of {{b3}} in {{b4}}; and growth of {{b5}} in 2011.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "-0.31",
+        "1921",
+        "2.48",
+        "1971",
+        "1.76"
+      ]
+    },
+    "source_note": "Growth units are not explicitly printed alongside these text values; no unit is added.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "-0.31",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1921",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "2.48",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "1971",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b5",
+        "answer": "1.76",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q064",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u013"
+    ],
+    "source_pages": [
+      53
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "India’s demographic-growth phases"
+    ],
+    "quick_recall": false,
+    "prompt": "Why is the steady-growth phase described as mortality-induced growth?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Death rate declined considerably while births persisted → births exceeded deaths → steady population increase"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q065",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u013"
+    ],
+    "source_pages": [
+      53
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "India’s demographic-growth phases"
+    ],
+    "quick_recall": true,
+    "prompt": "In the page-53 historical graph, labelled CBR/CDR are {{b1}}/{{b2}} in 1901, {{b3}}/{{b4}} in 1921, {{b5}}/{{b6}} in 1971 and {{b7}}/{{b8}} at the 2021 endpoint.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "48",
+        "48",
+        "49",
+        "49",
+        "36",
+        "16",
+        "20",
+        "6"
+      ]
+    },
+    "source_note": "Historical figure labels; caption says 1901–2017 although horizontal-axis endpoint reads 2021. Keep separate from SRS 2024 figures.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "48",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "48",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "49",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "49",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b5",
+        "answer": "36",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b6",
+        "answer": "16",
+        "accepted_answers": [],
+        "label": "Blank 6",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b7",
+        "answer": "20",
+        "accepted_answers": [],
+        "label": "Blank 7",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b8",
+        "answer": "6",
+        "accepted_answers": [],
+        "label": "Blank 8",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q066",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u013"
+    ],
+    "source_pages": [
+      53
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "India’s demographic-growth phases"
+    ],
+    "quick_recall": false,
+    "prompt": "What source split is given in the historical birth/death-rate chart caption?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "1901–1961 → Mukherji (1976)",
+        "1971–2017 → annual statistical reports of Sample Registration System"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q067",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u013"
+    ],
+    "source_pages": [
+      53
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "India’s demographic-growth phases"
+    ],
+    "quick_recall": false,
+    "prompt": "What mechanism does the widening and later narrowing gap between CBR and CDR illustrate?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Death rate falls earlier → births–deaths gap expands → growth accelerates",
+        "Later birth-rate decline → gap narrows → growth slows"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q068",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u014"
+    ],
+    "source_pages": [
+      54
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Density categories and map"
+    ],
+    "quick_recall": true,
+    "prompt": "Text density bands (people per sq km): very high >{{b1}}; high {{b2}}–{{b3}}; moderate {{b4}}–{{b5}}; low {{b6}}–{{b7}}; extremely low <{{b8}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1000",
+        "500",
+        "1000",
+        "250",
+        "500",
+        "100",
+        "250",
+        "100"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1000",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "500",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "1000",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "250",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b5",
+        "answer": "500",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b6",
+        "answer": "100",
+        "accepted_answers": [],
+        "label": "Blank 6",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b7",
+        "answer": "250",
+        "accepted_answers": [],
+        "label": "Blank 7",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b8",
+        "answer": "100",
+        "accepted_answers": [],
+        "label": "Blank 8",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q069",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u014"
+    ],
+    "source_pages": [
+      54
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Density categories and map"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the very-high and high-density examples in the slide text.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Very high: Chandigarh, Puducherry, Daman & Diu; Delhi, Bihar, West Bengal",
+        "High: UP, Kerala, Tamil Nadu, Punjab, Haryana → agriculture/industry based"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q070",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u014"
+    ],
+    "source_pages": [
+      54
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Density categories and map"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the moderate-density states listed in the text.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Gujarat, Karnataka, Andhra Pradesh, Tripura",
+        "Maharashtra, Jharkhand, Assam, Goa"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q071",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u014"
+    ],
+    "source_pages": [
+      54
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Density categories and map"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the low and extremely-low density examples in the text.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Low: Meghalaya, Manipur, Himachal Pradesh, Nagaland, Chhattisgarh, Uttarakhand, Rajasthan, Madhya Pradesh",
+        "Extremely low: Arunachal Pradesh, Mizoram, Andaman & Nicobar Islands, Sikkim"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q072",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u014"
+    ],
+    "source_pages": [
+      54
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Density categories and map"
+    ],
+    "quick_recall": true,
+    "prompt": "The embedded map legend uses bands below {{b1}}, {{b2}}–{{b3}}, {{b4}}–{{b5}}, {{b6}}–{{b7}} and above {{b8}} people/sq km.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "100",
+        "100",
+        "300",
+        "300",
+        "500",
+        "550",
+        "1000",
+        "1000"
+      ]
+    },
+    "source_note": "Map legend differs from slide text and visibly prints 550–1000; retained without harmonising.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "100",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "100",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "300",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "300",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b5",
+        "answer": "500",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b6",
+        "answer": "550",
+        "accepted_answers": [],
+        "label": "Blank 6",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b7",
+        "answer": "1000",
+        "accepted_answers": [],
+        "label": "Blank 7",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b8",
+        "answer": "1000",
+        "accepted_answers": [],
+        "label": "Blank 8",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q073",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u015"
+    ],
+    "source_pages": [
+      55
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Factors shaping distribution"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the seven population-distribution factors.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Climate",
+        "Soil fertility",
+        "Altitude",
+        "Industries",
+        "Mineral resources",
+        "Urbanisation",
+        "Transport connectivity"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q074",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u015"
+    ],
+    "source_pages": [
+      55
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Factors shaping distribution"
+    ],
+    "quick_recall": false,
+    "prompt": "Explain the climate, soil and altitude links to population density given here.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Hot/dry deserts and high hills → low population",
+        "Rainy plains, alluvial north, deltas/coasts → high density",
+        "Kutch and Terai → low density in this slide"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q075",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u015"
+    ],
+    "source_pages": [
+      55
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Factors shaping distribution"
+    ],
+    "quick_recall": false,
+    "prompt": "Reproduce the industry–migration–density chain and mineral-resource example.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Industry → jobs → immigration → higher population",
+        "Mineral resources → concentration in Chota Nagpur Plateau"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q076",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u015"
+    ],
+    "source_pages": [
+      55
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Factors shaping distribution"
+    ],
+    "quick_recall": true,
+    "prompt": "The distribution slide describes over {{b1}}% of the population as agriculture-based.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "60"
+      ]
+    },
+    "source_note": "No reference year/source is supplied for this figure.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "60",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q077",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u016"
+    ],
+    "source_pages": [
+      56
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Rapid-growth consequences"
+    ],
+    "quick_recall": true,
+    "prompt": "The chapter states that {{b1}}% of world land area accommodates {{b2}}% of world population in India.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2.4",
+        "17"
+      ]
+    },
+    "source_note": "Undated figure from this slide, not updated to another population estimate.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2.4",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "17",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q078",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u016"
+    ],
+    "source_pages": [
+      56
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Rapid-growth consequences"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the major effects of rapid population growth.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Unemployment, underemployment, disguised unemployment",
+        "Infrastructure pressure: overcrowding, slums, traffic",
+        "Land/natural-resource pressure",
+        "Inequality and poverty",
+        "Civil unrest"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q079",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u016"
+    ],
+    "source_pages": [
+      56
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Rapid-growth consequences"
+    ],
+    "quick_recall": false,
+    "prompt": "How can rapid population growth create urban and social pressure?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Population increase → pressure on jobs, infrastructure and resources → overcrowding/slums/traffic and poverty/inequality → potential civil unrest"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q080",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u017"
+    ],
+    "source_pages": [
+      57,
+      58,
+      59
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Demographic dividend and enabling conditions"
+    ],
+    "quick_recall": false,
+    "prompt": "Define demographic dividend and explain why it is a potential rather than an automatic benefit.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Rising working-age share relative to dependants → potential economic/social benefits",
+        "Requires human capital, skills, employment and women’s participation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q081",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u017"
+    ],
+    "source_pages": [
+      57,
+      58,
+      59
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Demographic dividend and enabling conditions"
+    ],
+    "quick_recall": true,
+    "prompt": "The demographic-dividend slide gives working ages as {{b1}}–{{b2}}, current share as {{b3}}%, and the golden window as {{b4}}–{{b5}} lasting {{b6}} years.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "15",
+        "64",
+        "65",
+        "2018",
+        "2055",
+        "37"
+      ]
+    },
+    "source_note": "Page 41 separately gives 68% under UNFPA 2025. Page 57’s current-share figure is undated.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "15",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "64",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "65",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "2018",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b5",
+        "answer": "2055",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b6",
+        "answer": "37",
+        "accepted_answers": [],
+        "label": "Blank 6",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q082",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u017"
+    ],
+    "source_pages": [
+      57,
+      58,
+      59
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Demographic dividend and enabling conditions"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the barriers to realising the demographic dividend and the unrest example.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Unemployed/frustrated youth → unrest; Arab Spring",
+        "Poor human capital",
+        "Low female LFPR",
+        "Skill gap"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q083",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u017"
+    ],
+    "source_pages": [
+      57,
+      58,
+      59
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Demographic dividend and enabling conditions"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the initiatives for demographic-dividend realisation.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Skill India and PMKVY",
+        "USTAAD → minority skill mentoring",
+        "Self Employment and Talent Utilization",
+        "Stand Up India/Start Up India",
+        "MOOCs → SWAYAM",
+        "Nai Roshni → women’s participation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q084",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u017"
+    ],
+    "source_pages": [
+      57,
+      58,
+      59
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Demographic dividend and enabling conditions"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the additional measures proposed for the dividend.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "NEP implementation and vocational training",
+        "Higher female LFPR",
+        "Fourth Industrial Revolution and AI opportunities",
+        "Entrepreneurship/startup support"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q085",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u017"
+    ],
+    "source_pages": [
+      57,
+      58,
+      59
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Demographic dividend and enabling conditions"
+    ],
+    "quick_recall": true,
+    "prompt": "The education policy named for vocational training is NEP {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2020"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2020",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q086",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u017"
+    ],
+    "source_pages": [
+      57,
+      58,
+      59
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "relationship",
+    "importance": "high",
+    "tags": [
+      "Demographic dividend and enabling conditions"
+    ],
+    "quick_recall": false,
+    "prompt": "How do skills and female workforce participation connect the women and population chapters?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Women’s care/work constraints reduce participation",
+        "Skills + enabling conditions + women’s employment → fuller use of working-age population → demographic-dividend potential"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q161",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u017"
+    ],
+    "source_pages": [
+      57,
+      58,
+      59
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Demographic dividend and enabling conditions"
+    ],
+    "quick_recall": true,
+    "prompt": "The 2018–2055 window in the material is associated with India’s {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "demographic dividend"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "demographic dividend",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "population-q087",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u018"
+    ],
+    "source_pages": [
+      60
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Five-Year Plan population measures"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the changing emphasis of the first five Plans on population.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "First → programme, growth factors, planning knowledge, hospital integration",
+        "Second → education/research",
+        "Third → Copper T and independent family-planning department",
+        "Fourth → all birth-control methods",
+        "Fifth → population policy, maternal/child health/nutrition, marriage age, incentives and delimitation base"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q088",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u018"
+    ],
+    "source_pages": [
+      60
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Five-Year Plan population measures"
+    ],
+    "quick_recall": true,
+    "prompt": "The First Plan population-control discussion is dated {{b1}}–{{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1951",
+        "1956"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1951",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1956",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q089",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u018"
+    ],
+    "source_pages": [
+      60
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Five-Year Plan population measures"
+    ],
+    "quick_recall": true,
+    "prompt": "The Second Plan population-control discussion is dated {{b1}}–{{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1956",
+        "1961"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1956",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1961",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q090",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u018"
+    ],
+    "source_pages": [
+      60
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Five-Year Plan population measures"
+    ],
+    "quick_recall": true,
+    "prompt": "The Third Plan population-control discussion is dated {{b1}}–{{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1961",
+        "1966"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1961",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1966",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q091",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u018"
+    ],
+    "source_pages": [
+      60
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Five-Year Plan population measures"
+    ],
+    "quick_recall": true,
+    "prompt": "The Fourth Plan population-control discussion is dated {{b1}}–{{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1969",
+        "1974"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1969",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1974",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q092",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u018"
+    ],
+    "source_pages": [
+      60
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Five-Year Plan population measures"
+    ],
+    "quick_recall": true,
+    "prompt": "The Fifth Plan population-control discussion is dated {{b1}}–{{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1974",
+        "1978"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1974",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1978",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q093",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u018"
+    ],
+    "source_pages": [
+      60
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Five-Year Plan population measures"
+    ],
+    "quick_recall": true,
+    "prompt": "The fifth-Plan discussion fixes delimitation on the Census of {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1971"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1971",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q094",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": false,
+    "prompt": "How did population policy shift after the 1970s and in the 1990s?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Post-1970s → family welfare",
+        "1990s → voluntary approach integrated with education, health, maternity/childcare, women’s rights, nutrition and anti-poverty programmes"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q095",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "The National Health Policy in the chapter is dated {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2017"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2017",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q096",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "NHP health-spending target: {{b1}}% of GDP by {{b2}}; the comparison value is {{b3}}% in 2022–23.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2.5",
+        "2025",
+        "1.43"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2.5",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2025",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "1.43",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q097",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "NHP life-expectancy target: {{b1}} years by {{b2}}; the SRS 2020–24 comparison is {{b3}} years.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "70",
+        "2025",
+        "70.6"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "70",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2025",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "70.6",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q098",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "NHP TFR target is {{b1}} by {{b2}}; page 61 states the current value as {{b3}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2.1",
+        "2025",
+        "1.9"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2.1",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2025",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "1.9",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q099",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "NHP under-five mortality target is {{b1}}; the SRS 2024 comparison figure is {{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "23",
+        "28"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "23",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "28",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q100",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "The HIV cascade target was {{b1}}–{{b2}}–{{b3}} by 2020 and is stated as updated to {{b4}}–{{b5}}–{{b6}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "90",
+        "90",
+        "90",
+        "95",
+        "95",
+        "95"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "90",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "90",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "90",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "95",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b5",
+        "answer": "95",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b6",
+        "answer": "95",
+        "accepted_answers": [],
+        "label": "Blank 6",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q101",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "What do the three steps in the HIV cascade mean?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Know HIV status",
+        "Those knowing status receive ART",
+        "Those on ART achieve viral-load suppression"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q102",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "The TB cure target is >{{b1}}%; the cited TB Mukt Bharat treatment-success figure is {{b2}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "85",
+        "90"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "85",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "90",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q103",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "NHP immunisation target: {{b1}}% by {{b2}}; NFHS-6 card-based full immunisation for children aged 12–23 months is {{b3}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "90",
+        "2025",
+        "87.1"
+      ]
+    },
+    "source_note": "Page 43 separately gives 82.6% without the card-based qualifier; do not merge the two.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "90",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2025",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "87.1",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q104",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u019"
+    ],
+    "source_pages": [
+      61
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Family welfare and National Health Policy"
+    ],
+    "quick_recall": true,
+    "prompt": "What health-workforce recommendation accompanies the NHP targets?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Increase density of paramedics and community health volunteers"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q105",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u020"
+    ],
+    "source_pages": [
+      62
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "National Population Policy objectives"
+    ],
+    "quick_recall": true,
+    "prompt": "National Population Policy {{b1}} has a medium-term TFR target of {{b2}} by {{b3}} and a long-term stable-population target for {{b4}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2000",
+        "2.1",
+        "2010",
+        "2045"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2000",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2.1",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "2010",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "2045",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q106",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u020"
+    ],
+    "source_pages": [
+      62
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "National Population Policy objectives"
+    ],
+    "quick_recall": false,
+    "prompt": "Distinguish the immediate, medium-term and long-term NPP objectives.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Immediate → address unmet contraception needs",
+        "Medium → replacement-level TFR",
+        "Long → stable population"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q107",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u020"
+    ],
+    "source_pages": [
+      62
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "National Population Policy objectives"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the NPP measures beyond limiting family size.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Proper spacing between children",
+        "Free/compulsory education",
+        "Delayed marriage for adolescent girls",
+        "Information and counselling access"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q108",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u020"
+    ],
+    "source_pages": [
+      62
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "National Population Policy objectives"
+    ],
+    "quick_recall": true,
+    "prompt": "NPP recommends education until age {{b1}} and targets by 2010: IMR {{b2}} per 1,000, MMR {{b3}} per lakh, institutional delivery {{b4}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "14",
+        "30",
+        "100",
+        "80"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "14",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "30",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "100",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "80",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q109",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u020"
+    ],
+    "source_pages": [
+      62
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "National Population Policy objectives"
+    ],
+    "quick_recall": false,
+    "prompt": "Why does NPP combine contraception with education, marriage timing and counselling?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Fertility choices depend on knowledge, life opportunities and timing → services + education/counselling support spacing and family-size decisions"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q110",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u021"
+    ],
+    "source_pages": [
+      63,
+      64
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Current family-planning initiatives"
+    ],
+    "quick_recall": false,
+    "prompt": "What roles do Quality Assurance Committees and the family-planning indemnity scheme serve?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "State/district committees → monitor service quality",
+        "National Family Planning Indemnity Scheme → insurance for unforeseen sterilisation deaths/complications"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q111",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u021"
+    ],
+    "source_pages": [
+      63,
+      64
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Current family-planning initiatives"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the measures for awareness and increasing male participation.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Posters, billboards, audiovisuals → contraceptive choices and healthy timing/spacing",
+        "Non-scalpel vasectomy → less invasive, shorter recovery"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q112",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u021"
+    ],
+    "source_pages": [
+      63,
+      64
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Current family-planning initiatives"
+    ],
+    "quick_recall": true,
+    "prompt": "What does the slide say about Minilap tubectomy provision?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "MBBS qualification sufficient to perform it; no specialisation required, as stated in the source"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q113",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u021"
+    ],
+    "source_pages": [
+      63,
+      64
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Current family-planning initiatives"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall ASHAs’ family-planning roles and the postpartum method named.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Home delivery of contraceptives",
+        "Spacing counselling",
+        "Post Partum Intra Uterine Contraceptive Device",
+        "More reproductive/maternal/newborn/child-health counsellors"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q114",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u021"
+    ],
+    "source_pages": [
+      63,
+      64
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Current family-planning initiatives"
+    ],
+    "quick_recall": true,
+    "prompt": "Mission Parivar Vikas coverage on page 64 includes {{b1}} high-focus states and {{b2}} northeastern states.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "7",
+        "6"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "7",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "6",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q115",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u021"
+    ],
+    "source_pages": [
+      63,
+      64
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Current family-planning initiatives"
+    ],
+    "quick_recall": true,
+    "prompt": "How is family-planning funding allocated in the current-initiatives slide?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Approved through states’ Programme Implementation Plans according to their needs"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q116",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u021"
+    ],
+    "source_pages": [
+      63,
+      64
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Current family-planning initiatives"
+    ],
+    "quick_recall": false,
+    "prompt": "How do delivery, counselling, quality assurance and indemnity address different family-planning barriers?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Home delivery → access",
+        "Counselling → informed choices/spacing",
+        "Quality assurance → service quality",
+        "Indemnity → protection against unforeseen complications"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q117",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u022"
+    ],
+    "source_pages": [
+      65
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "China’s policy sequence and ageing"
+    ],
+    "quick_recall": true,
+    "prompt": "China’s one-child policy began in {{b1}}; universal two-child policy in {{b2}}; three-child permission in {{b3}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1980",
+        "2016",
+        "2021"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1980",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2016",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "2021",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q118",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u022"
+    ],
+    "source_pages": [
+      65
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "China’s policy sequence and ageing"
+    ],
+    "quick_recall": true,
+    "prompt": "China’s population first declined in {{b1}}; end-2025 population was {{b2}} crore, down {{b3}} lakh from 2024.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2022",
+        "140.49",
+        "33.9"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2022",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "140.49",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "33.9",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q119",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u022"
+    ],
+    "source_pages": [
+      65
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "China’s policy sequence and ageing"
+    ],
+    "quick_recall": true,
+    "prompt": "In China in 2025, ages 60+ comprised {{b1}}% and ages 65+ {{b2}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "23.0",
+        "15.9"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "23.0",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "15.9",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q120",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u022"
+    ],
+    "source_pages": [
+      65
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "China’s policy sequence and ageing"
+    ],
+    "quick_recall": false,
+    "prompt": "What contrast does China’s policy sequence illustrate in the chapter’s broader population discussion?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Birth limitation → later permission for more births",
+        "Population decline and ageing → shift from controlling growth to fertility concerns"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q121",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u023"
+    ],
+    "source_pages": [
+      66
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Indian state models"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the Kerala model’s components.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Social reform → women/marginalised empowerment",
+        "Matrilineal system",
+        "Empowered village Panchayats",
+        "Outmigration → increased income",
+        "Active media",
+        "Male sterilisation: Ernakulam camp"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q122",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u023"
+    ],
+    "source_pages": [
+      66
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "relationship",
+    "importance": "high",
+    "tags": [
+      "Indian state models"
+    ],
+    "quick_recall": false,
+    "prompt": "Distinguish Tamil Nadu, Himachal and Andhra Pradesh models.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "TN → reform/small-family norm; early midday meals",
+        "Himachal → limited land, male outmigration, women’s empowerment; agriculture/apple orchards/horticulture",
+        "AP → cinema awareness ads; state population policy"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q123",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u023"
+    ],
+    "source_pages": [
+      66
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Indian state models"
+    ],
+    "quick_recall": false,
+    "prompt": "Reproduce the Himachal model’s empowerment chain.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Limited land → male outmigration → women’s empowerment",
+        "Agriculture, apple orchards and horticulture → economic empowerment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q124",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u023"
+    ],
+    "source_pages": [
+      66
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Indian state models"
+    ],
+    "quick_recall": true,
+    "prompt": "Andhra Pradesh’s state-level population policy is dated {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1997"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1997",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q125",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u023"
+    ],
+    "source_pages": [
+      66
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "relationship",
+    "importance": "high",
+    "tags": [
+      "Indian state models"
+    ],
+    "quick_recall": false,
+    "prompt": "Which common social mechanisms appear across the Indian state models?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Social reform and empowerment",
+        "Income/livelihood changes",
+        "Local governance",
+        "Media awareness",
+        "Small-family norms and male participation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q126",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u024"
+    ],
+    "source_pages": [
+      67,
+      70
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Delimitation, representation and federal concerns"
+    ],
+    "quick_recall": true,
+    "prompt": "States’ Lok Sabha seat shares remain broadly based on Census {{b1}}; the next milestone named is Census {{b2}}; women’s reservation is linked to the {{b3}} Constitutional Amendment.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1971",
+        "2027",
+        "106th"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1971",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2027",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "106th",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "population-q127",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u024"
+    ],
+    "source_pages": [
+      67,
+      70
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Delimitation, representation and federal concerns"
+    ],
+    "quick_recall": false,
+    "prompt": "Why does the slide reject an automatic delimitation exercise simply in 2026?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Freeze does not expire into an automatic exercise",
+        "Next key milestone is Census 2027",
+        "Women’s reservation linked to post-census delimitation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q128",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u024"
+    ],
+    "source_pages": [
+      67,
+      70
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Delimitation, representation and federal concerns"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the central delimitation trade-off.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "More equal population per MP and manageable constituencies",
+        "Versus protecting political weight of states that achieved lower growth",
+        "Balance electoral equality with federal structure"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q129",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u024"
+    ],
+    "source_pages": [
+      67,
+      70
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Delimitation, representation and federal concerns"
+    ],
+    "quick_recall": false,
+    "prompt": "How could changed state allocations affect reserved constituencies?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Changed state-seat allocation → possible changes in distribution/location of SC/ST reserved constituencies"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q130",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u024"
+    ],
+    "source_pages": [
+      67,
+      70
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Delimitation, representation and federal concerns"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the arguments for readjustment and concerns about it.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "For: reduce population-per-MP disparities; more MPs ease representation; reflect population changes",
+        "Concerns: some states lose relative seat share; family-planning success should not reduce political weight; federal balance"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q131",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The embedded news proposal uses Census {{b1}} and proposes a maximum of {{b2}} Lok Sabha seats.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2011",
+        "850"
+      ]
+    },
+    "source_note": "Proposal shown in an illustration, not enacted allocation; page 69 says the proposed Bill was voted down.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2011",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "850",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q132",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The source’s September 2026 status note says the proposed Constitution ({{b1}} Amendment) Bill, 2026 was voted down in {{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "131st",
+        "April"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "131st",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      },
+      {
+        "id": "b2",
+        "answer": "April",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "population-q133",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "In the proposed 543-to-850-seat illustration, South’s share changes from {{b1}}% to {{b2}}%; Hindi heartland’s from {{b3}}% to {{b4}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "24.3",
+        "20.7",
+        "38.1",
+        "43.1"
+      ]
+    },
+    "source_note": "Hypothetical/proposed illustration; not current seat shares after an enacted reform.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "24.3",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "20.7",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "38.1",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "43.1",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q134",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The proposed-delimitation table gives East: seat increase {{b1}}%, share of 543 seats {{b2}}%, share of 850 seats {{b3}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "48.7",
+        "14.4",
+        "13.7"
+      ]
+    },
+    "source_note": "Proposed illustration on page 69; not an enacted allocation.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "48.7",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "14.4",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "13.7",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q135",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The proposed-delimitation table gives Hindi heartland: seat increase {{b1}}%, share of 543 seats {{b2}}%, share of 850 seats {{b3}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "76.8",
+        "38.1",
+        "43.1"
+      ]
+    },
+    "source_note": "Proposed illustration on page 69; not an enacted allocation.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "76.8",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "38.1",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "43.1",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q136",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The proposed-delimitation table gives North-East: seat increase {{b1}}%, share of 543 seats {{b2}}%, share of 850 seats {{b3}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "33.3",
+        "4.4",
+        "3.8"
+      ]
+    },
+    "source_note": "Proposed illustration on page 69; not an enacted allocation.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "33.3",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "4.4",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "3.8",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q137",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The proposed-delimitation table gives North-Non-Hindi: seat increase {{b1}}%, share of 543 seats {{b2}}%, share of 850 seats {{b3}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "58.3",
+        "4.4",
+        "4.5"
+      ]
+    },
+    "source_note": "Proposed illustration on page 69; not an enacted allocation.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "58.3",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "4.4",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "4.5",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q138",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The proposed-delimitation table gives South: seat increase {{b1}}%, share of 543 seats {{b2}}%, share of 850 seats {{b3}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "33.3",
+        "24.3",
+        "20.7"
+      ]
+    },
+    "source_note": "Proposed illustration on page 69; not an enacted allocation.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "33.3",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "24.3",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "20.7",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q139",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The proposed-delimitation table gives West: seat increase {{b1}}%, share of 543 seats {{b2}}%, share of 850 seats {{b3}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "56.4",
+        "14.3",
+        "14.4"
+      ]
+    },
+    "source_note": "Proposed illustration on page 69; not an enacted allocation.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "56.4",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "14.3",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "14.4",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q140",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The proposed table’s grand-total seat increase is {{b1}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "56.5"
+      ]
+    },
+    "source_note": "Illustrative proposal only.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "56.5",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q141",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": true,
+    "prompt": "The proposal map’s changes relative to a proportional increase are UP {{b1}}, Bihar {{b2}}, Rajasthan {{b3}}, J&K {{b4}}, West Bengal {{b5}}, Kerala {{b6}} and Tamil Nadu {{b7}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "13",
+        "10",
+        "8",
+        "3",
+        "-2",
+        "-8",
+        "-11"
+      ]
+    },
+    "source_note": "Map caption compares a proposed Census-2011-based exercise with proportional increases; negative figures are relative losses.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "13",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "10",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "8",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "3",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b5",
+        "answer": "-2",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b6",
+        "answer": "-8",
+        "accepted_answers": [],
+        "label": "Blank 6",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b7",
+        "answer": "-11",
+        "accepted_answers": [],
+        "label": "Blank 7",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q142",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u025"
+    ],
+    "source_pages": [
+      68,
+      69
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Proposed delimitation illustrations"
+    ],
+    "quick_recall": false,
+    "prompt": "Why can a state gain absolute seats yet lose its relative share in the proposed table?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Its seat increase can be smaller than the total increase → its proportion of all seats falls despite an absolute increase"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q143",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u026"
+    ],
+    "source_pages": [
+      71
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "State fertility-support developments"
+    ],
+    "quick_recall": true,
+    "prompt": "Tamil Nadu’s G.O. dated {{b1}} extended eligible government employees’ paid maternity leave for a third child from {{b2}} weeks to {{b3}} days.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "25 August 2026",
+        "12",
+        "365"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "25 August 2026",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      },
+      {
+        "id": "b2",
+        "answer": "12",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "365",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q144",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u026"
+    ],
+    "source_pages": [
+      71
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "State fertility-support developments"
+    ],
+    "quick_recall": true,
+    "prompt": "Andhra Pradesh’s May 2026 announcement gives ₹{{b1}} for a third child and ₹{{b2}} for a fourth.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "30,000",
+        "40,000"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "30,000",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "40,000",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "population-q145",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u026"
+    ],
+    "source_pages": [
+      71
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "State fertility-support developments"
+    ],
+    "quick_recall": true,
+    "prompt": "Sikkim’s scheme gives {{b1}} advance increment for a second child and {{b2}} additional increment for a third; eligible births start from {{b3}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "one",
+        "one",
+        "1 January 2023"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "one",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      },
+      {
+        "id": "b2",
+        "answer": "one",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      },
+      {
+        "id": "b3",
+        "answer": "1 January 2023",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "population-q146",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u026"
+    ],
+    "source_pages": [
+      71
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "State fertility-support developments"
+    ],
+    "quick_recall": false,
+    "prompt": "Distinguish the status and eligibility of the three fertility-support examples.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Tamil Nadu: G.O.; eligible woman government employee, third-child leave",
+        "AP: Chief Minister’s announcement of cash support",
+        "Sikkim: notified employee scheme; either spouse may claim increments"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q147",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u027"
+    ],
+    "source_pages": [
+      72
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Reproductive choice and family care"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the chapter’s final policy shift.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Limiting births → supporting reproductive choice and family care",
+        "Address ageing + childcare + women’s employment together",
+        "Birth incentives alone may have limited impact",
+        "Resolve delimitation through representation policy, not fertility targets"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q148",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u027"
+    ],
+    "source_pages": [
+      72
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Reproductive choice and family care"
+    ],
+    "quick_recall": false,
+    "prompt": "Why should delimitation concerns be addressed through representation policy rather than fertility targets?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Issue is allocation of political representation/federal balance → requires representation rules",
+        "Fertility policy should support reproductive choice and family care"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q149",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u027"
+    ],
+    "source_pages": [
+      72
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Reproductive choice and family care"
+    ],
+    "quick_recall": false,
+    "prompt": "Why might birth incentives alone be insufficient in the chapter’s framework?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Fertility connects to childcare, women’s work, reproductive choice and ageing → cash incentives alone do not address the wider family-care conditions"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q154",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u030"
+    ],
+    "source_pages": [
+      15,
+      17,
+      47,
+      49,
+      50,
+      51,
+      57,
+      59,
+      62,
+      66,
+      72
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — women, health and dividend"
+    ],
+    "quick_recall": false,
+    "prompt": "Connect women’s empowerment, reproductive health, fertility and the demographic dividend.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Education/employment/autonomy affect fertility choices",
+        "Early pregnancy and poor care worsen maternal/infant risks",
+        "Counselling, contraception and spacing support choice",
+        "Skills + women’s participation → utilise working-age opportunity",
+        "Childcare and family care connect fertility concerns with employment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q155",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u030"
+    ],
+    "source_pages": [
+      15,
+      17,
+      47,
+      49,
+      50,
+      51,
+      57,
+      59,
+      62,
+      66,
+      72
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — women, health and dividend"
+    ],
+    "quick_recall": false,
+    "prompt": "Why can a favourable age structure still produce social unrest rather than a dividend?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Working-age opportunity without skills, human capital and jobs → frustrated/unemployed youth → unrest",
+        "Arab Spring example",
+        "Education, vocational skills, entrepreneurship and female participation are enabling conditions"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q150",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u028"
+    ],
+    "source_pages": [
+      40,
+      42,
+      45,
+      46,
+      47,
+      51,
+      52,
+      53,
+      54,
+      57,
+      62,
+      66,
+      67,
+      72
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — chapter reconstruction"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the population chapter in 10–15 keywords.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Demography",
+        "Malthus",
+        "Transition",
+        "Birth/death rates",
+        "Migration",
+        "IMR/MMR",
+        "TFR",
+        "Replacement",
+        "Sex/dependency ratios",
+        "Growth phases",
+        "Density",
+        "Demographic dividend",
+        "Family welfare",
+        "Delimitation",
+        "Reproductive choice"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q151",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u028"
+    ],
+    "source_pages": [
+      40,
+      42,
+      45,
+      46,
+      47,
+      51,
+      52,
+      53,
+      54,
+      57,
+      62,
+      66,
+      67,
+      72
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — chapter reconstruction"
+    ],
+    "quick_recall": false,
+    "prompt": "Reproduce the chapter’s main population-change reasoning chain.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Births − deaths + net migration → population change",
+        "Falling deaths before births → expansion",
+        "Later fertility decline → slower growth/ageing",
+        "Age structure + human capital + employment → dividend potential",
+        "Policy shifts from birth limits toward choice/family care"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q152",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u029"
+    ],
+    "source_pages": [
+      41,
+      43,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      57,
+      61,
+      62
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — data and indicators"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the core population indicators with their denominator and source context.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "UNFPA 2025: 146.39 crore; working-age share 68%; TFR 1.9",
+        "SRS 2024: CBR 18.3, CDR 6.4 per 1,000 people; IMR 24 per 1,000 births",
+        "SRS 2022–24: MMR 87 per 100,000 births",
+        "NFHS-6 page 43: TFR 2.0",
+        "NFHS-5 page 52: sex ratio 1020 per 1,000 males",
+        "Replacement TFR 2.1"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q153",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u029"
+    ],
+    "source_pages": [
+      41,
+      43,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      57,
+      61,
+      62
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — data and indicators"
+    ],
+    "quick_recall": false,
+    "prompt": "Which pairs of population figures must remain separated by source or qualifier?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "TFR: UNFPA/current text 1.9 vs NFHS-6 2.0",
+        "Working-age share: UNFPA 68% vs undated dividend slide 65%",
+        "Full vaccination: page 43 82.6% vs card-based page 61 87.1%",
+        "Current SRS rates versus historical graph labels",
+        "Observed fertility versus future projections"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q158",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u032"
+    ],
+    "source_pages": [
+      53,
+      54,
+      55,
+      56,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — distribution and federal logic"
+    ],
+    "quick_recall": false,
+    "prompt": "Connect unequal population distribution to resources and representation.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Climate/soil/jobs/connectivity → uneven distribution",
+        "Concentration → infrastructure/resource pressure",
+        "Different growth rates → unequal population per MP",
+        "Seat readjustment → equality versus federal/family-planning concerns"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q159",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u032"
+    ],
+    "source_pages": [
+      53,
+      54,
+      55,
+      56,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — distribution and federal logic"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the delimitation debate and its relationship to fertility policy.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Population-based seats can improve population-per-MP equality",
+        "Lower-growth states fear reduced relative political weight",
+        "Proposed illustrations are not enacted allocations",
+        "Representation reform must balance federalism",
+        "Fertility policy should support choice/care, not political seat targets"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q156",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u031"
+    ],
+    "source_pages": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      71,
+      72
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — policy evolution and models"
+    ],
+    "quick_recall": false,
+    "prompt": "Trace population policy from early Plans to present fertility concerns.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Early Plans: programmes/research/contraceptive methods",
+        "Fifth Plan: policy, maternal-child health, marriage age/incentives",
+        "Family welfare → voluntary integrated approach",
+        "NPP: contraception, replacement, stability",
+        "Current initiatives: access, quality, counselling",
+        "China decline/ageing and state incentives → reproductive choice/family care"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "population-q157",
+    "revision": 1,
+    "chapter_id": "population",
+    "unit_ids": [
+      "population-u031"
+    ],
+    "source_pages": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      71,
+      72
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Population — policy evolution and models"
+    ],
+    "quick_recall": false,
+    "prompt": "Compare the mechanisms of the China and Indian state models.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "China: restrictive child-number policy → later relaxation amid ageing/decline",
+        "Kerala: reform, women’s empowerment, Panchayats, income/media/male sterilisation",
+        "TN: reform/small-family norm and meals",
+        "Himachal: outmigration/livelihood empowerment",
+        "AP: media and state policy"
+      ]
+    },
+    "source_note": ""
+  }
+]

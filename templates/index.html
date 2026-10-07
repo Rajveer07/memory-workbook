@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A personal UPSC notebook for active recall of concepts, reasoning, keywords and data.">
+  <meta name="csrf-token" content="{{ csrf }}">
+  <title>UPSC Memory Workbook</title>
+  <link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="{{ url_for('static', filename='workbook.js') }}" defer></script>
+</head>
+<body>
+<a class="skip" href="#question-panel">Skip to recall question</a>
+<header class="topbar">
+  <a class="brand" href="/" aria-label="Memory Workbook home"><span class="brand-mark">M</span><span>Memory Workbook<small>UPSC · Active recall</small></span></a>
+  <div class="header-actions"><a href="/api/export" class="quiet">Back up progress</a><button id="theme" class="quiet" type="button" aria-label="Toggle dark mode">Dark mode</button></div>
+</header>
+<div class="layout">
+<aside class="sidebar" aria-label="Study navigation">
+  <label for="subject">SUBJECT</label>
+  <select id="subject">{% for s in catalog.subjects %}<option value="{{ s.id }}">{{ s.title }}</option>{% endfor %}</select>
+  <label for="chapter">CHAPTER</label>
+  <select id="chapter"><option value="">All chapters</option>{% for c in catalog.chapters %}<option value="{{ c.id }}" data-subject="{{ c.subject_id }}" data-start="{{ c.page_start }}" data-end="{{ c.page_end }}">{{ c.number }} · {{ c.title }}</option>{% endfor %}</select>
+  <label for="page">SOURCE PAGE</label><select id="page"><option value="">All pages</option></select>
+  <p class="nav-label">REVISION</p>
+  <nav id="modes">{% for id, name in modes.items() %}<button type="button" data-mode="{{ id }}" {% if id=='learn' %}aria-current="page"{% endif %}>{{ name }}<span aria-hidden="true">{% if id=='learn' %}01{% elif id=='weak' %}02{% elif id=='data' %}04{% endif %}</span></button>{% endfor %}</nav>
+  <div class="sidebar-note">Recall first.<br>Reveal, reflect, repeat.</div>
+</aside>
+<main>
+  <p class="personal-signature">By Rajveer, for Rajveer.</p>
+  <div class="study-heading"><div><p class="eyebrow">YOUR STUDY NOTEBOOK</p><h1 id="mode-title">Learn</h1></div><span id="question-count" class="counter">Loading questions…</span></div>
+  <label class="search-label" for="search">Search the whole workbook</label>
+  <div class="search-row"><input type="search" id="search" placeholder="Search concepts, keywords, reports or data…" autocomplete="off"><button id="clear-search" type="button" class="quiet" hidden>Clear</button></div>
+  <section id="mastery" class="mastery" aria-label="Chapter mastery"></section>
+  <div id="status" role="status" aria-live="polite"></div>
+  <section id="question-panel" class="paper" tabindex="-1" aria-label="Recall question">
+    <div class="paper-top"><span id="source-ref" class="source-ref"></span><button id="bookmark" type="button" class="quiet" aria-pressed="false">☆ Bookmark</button></div>
+    <div class="question-meta"><span id="type-label" class="type-label"></span><span id="position"></span></div>
+    <h2 id="question-title">Preparing your workbook…</h2>
+    <div id="response-area"></div>
+    <div class="reveal-row"><button id="reveal" class="primary" type="button">Reveal answer</button><div id="source-links" class="source-links"></div></div>
+    <section id="expected" class="expected" hidden><p class="eyebrow">EXPECTED RECALL</p><div id="expected-content"></div><p id="source-note" class="source-note"></p></section>
+    <div id="rating-area" class="rating-area" hidden><p>How well did you recall it?</p><div class="ratings"><button type="button" data-rating="again"><strong>Again</strong><small>Revisit soon</small></button><button type="button" data-rating="hard"><strong>Hard</strong><small>Needs effort</small></button><button type="button" data-rating="good"><strong>Good</strong><small>Recalled clearly</small></button></div></div>
+    <footer class="paper-footer"><button id="previous" class="quiet" type="button">Previous</button><button id="history" class="quiet" type="button">Attempt history</button><button id="next" class="quiet" type="button">Skip / Next</button></footer>
+    <div id="history-content" class="history-content" hidden></div>
+  </section>
+  <section id="empty" class="empty" hidden><h2 id="empty-title">No questions in this view</h2><p id="empty-description"></p><button id="back-learn" type="button" class="primary">Return to Learn</button></section>
+  <p class="footnote">Self-evaluation builds mastery. Revealing alone does not count as progress.</p>
+</main>
+</div>
+<noscript>This workbook needs JavaScript for revealing answers and saving recall progress.</noscript>
+</body>
+</html>

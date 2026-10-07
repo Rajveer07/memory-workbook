@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "bank_version": "2026-10-07-source-1",
+  "subjects": [
+    {
+      "id": "society",
+      "title": "Society"
+    }
+  ],
+  "sources": [
+    {
+      "id": "society-lecture-03",
+      "title": "Indian Society Lecture 03 PPT",
+      "private_filename": "Indian Society Lecture 03 PPT (1).pdf",
+      "page_count": 72
+    }
+  ],
+  "chapters": [
+    {
+      "id": "women",
+      "number": 1,
+      "subject_id": "society",
+      "source_id": "society-lecture-03",
+      "title": "Role of Women and Women’s Organisations",
+      "page_start": 1,
+      "page_end": 39,
+      "bank_file": "women.json",
+      "units_file": "women-units.json"
+    },
+    {
+      "id": "population",
+      "number": 2,
+      "subject_id": "society",
+      "source_id": "society-lecture-03",
+      "title": "Population and Associated Issues",
+      "page_start": 40,
+      "page_end": 72,
+      "bank_file": "population.json",
+      "units_file": "population-units.json"
+    }
+  ]
+}

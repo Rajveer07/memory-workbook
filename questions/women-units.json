@@ -1,0 +1,1004 @@
+[
+  {
+    "id": "women-u001",
+    "chapter_id": "women",
+    "title": "Chapter architecture",
+    "source_pages": [
+      1
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Status and historical perspective → reasons for inequality → safeguards → women’s organisations → role models and way forward"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u002",
+    "chapter_id": "women",
+    "title": "Life cycle of discrimination",
+    "source_pages": [
+      2
+    ],
+    "kind": "list",
+    "recall_points": [
+      "Foetus: sex selection, female foeticide",
+      "Infant: infanticide, malnutrition",
+      "Early age: neglected care and education, sexual abuse, physical violence",
+      "Adolescence: early marriage/pregnancy, sexual and domestic violence, dowry harassment, marital rape, son preference, desertion, maternal mortality",
+      "Older women/widows: witch-hunt, desertion, emotional/social/financial neglect, feminisation of elderly",
+      "Sex selection before birth → deprivation and violence in childhood → marriage/reproductive coercion → neglect and widowhood in old age",
+      "Witch-hunt",
+      "Desertion",
+      "Emotional, social and financial neglect",
+      "Feminisation of elderly: widowhood"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u003",
+    "chapter_id": "women",
+    "title": "Crime frequency figures",
+    "source_pages": [
+      3
+    ],
+    "kind": "data",
+    "recall_points": [
+      "18",
+      "4",
+      "90",
+      "50",
+      "Rape, rape with murder",
+      "Dowry, acid attacks, suicide",
+      "Kidnapping, forced marriage, human trafficking",
+      "Online harassment"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u004",
+    "chapter_id": "women",
+    "title": "Global Gender Gap Index",
+    "source_pages": [
+      4,
+      5
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "2026",
+      "131",
+      "145",
+      "64.5",
+      "Economic participation/opportunity: LFPR, wage equality, estimated earned income",
+      "Educational attainment: literacy and primary/secondary/tertiary enrolment",
+      "Health and survival: sex ratio at birth, healthy life expectancy",
+      "Political empowerment: parliamentary/ministerial representation, years with female/male head of state",
+      "Economic opportunity, education, health and political power are distinct dimensions → one aggregate score can conceal uneven parity",
+      "0.645",
+      "0.644",
+      "0.412",
+      "143",
+      "0.407",
+      "144",
+      "0.966",
+      "112",
+      "0.971",
+      "110",
+      "0.956",
+      "136",
+      "0.954",
+      "0.245",
+      "67",
+      "69",
+      "Education and health scores are close to parity",
+      "Economic participation and political empowerment scores are much lower"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u005",
+    "chapter_id": "women",
+    "title": "Women’s employment and unpaid work",
+    "source_pages": [
+      6,
+      15
+    ],
+    "kind": "data",
+    "recall_points": [
+      "40.0",
+      "79.1",
+      "289",
+      "88",
+      "76",
+      "Unpaid domestic/care work consumes time → fewer paid-work opportunities → lower female labour-force participation"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u006",
+    "chapter_id": "women",
+    "title": "Representation and gender norms",
+    "source_pages": [
+      6
+    ],
+    "kind": "data",
+    "recall_points": [
+      "74",
+      "543",
+      "5",
+      "20",
+      "200",
+      "2016",
+      "half",
+      "927",
+      "919",
+      "Disapproval of married women working when husbands earn well → social restriction independent of financial need → lower participation"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u007",
+    "chapter_id": "women",
+    "title": "Women’s health, early marriage and education",
+    "source_pages": [
+      7
+    ],
+    "kind": "data",
+    "recall_points": [
+      "57",
+      "87",
+      "90.6",
+      "20.1",
+      "70.3",
+      "84.8",
+      "93.1",
+      "49.7",
+      "49.8",
+      "31.1",
+      "Women are about half of higher-education/PhD enrolment",
+      "Their undergraduate engineering share is much lower"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u008",
+    "chapter_id": "women",
+    "title": "Vedic and medieval status",
+    "source_pages": [
+      8
+    ],
+    "kind": "mechanism",
+    "recall_points": [
+      "Pastoral/nomadic economy → no economic surplus/private property → egalitarianism",
+      "Agriculture → division of labour → Grihapathi control over women",
+      "Gargi and Maitreyi → Sabhas and Samitis",
+      "Stridharma, Pativratadharma, ritual purification and fasts",
+      "Bhakti and Lingayat movements: egalitarianism",
+      "Polygamy, purdah and talaq: continued prejudices",
+      "Mughal intervention in sati"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u009",
+    "chapter_id": "women",
+    "title": "Colonial social reform",
+    "source_pages": [
+      9
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "British education → emergence of a new elite → questioning existing social practices",
+      "Sati",
+      "Female infanticide",
+      "Restrictions on widow remarriage",
+      "Illiteracy",
+      "Polygamy",
+      "1829",
+      "1856",
+      "Arya Samaj → Dayanand Saraswati",
+      "Prarthana Samaj → M.G. Ranade and R.G. Bhandarkar",
+      "Brahmo Samaj and Arya Samaj → mahila mandals",
+      "Kandukuri Veeresalingam → widow remarriage",
+      "D.K. Karve → SNDT women’s university",
+      "Badruddin Tyabji/Muslim self-help association → girls’ schools, orphanages, nursing centres",
+      "Pandita Ramabai → Sharda Sadan for destitute widows",
+      "1916"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u010",
+    "chapter_id": "women",
+    "title": "Women in the nationalist movement",
+    "source_pages": [
+      10
+    ],
+    "kind": "example",
+    "recall_points": [
+      "Sarala Devi → Bharat Stree Maha Mandal, Allahabad",
+      "Parvati Devi → Kanchi Mahila Parishad",
+      "Annie Besant → Theosophical Society",
+      "Women India Association → influence on government policies",
+      "Kamala Devi → first woman to contest elections; Civil Disobedience picketing",
+      "Rukmabai Raut → described as first Indian woman to have studied medicine",
+      "Mutthu Lakshmi Reddy → first woman nominated to Legislative Council; opposed Devadasi system and brothels",
+      "Sarojini Naidu → Dandi March and second Round Table Conference",
+      "Quit India → demonstrations, camps, Political Prisoners Relief Fund",
+      "INA → Rani Jhansi Regiment",
+      "1917",
+      "Anasuya Sarabhai → Ahmedabad textile workers",
+      "Maniben Kara → socialist railway-worker leader",
+      "Parvati Bhore and Ushabai Dange → communist textile-worker leaders",
+      "Political participation and collective struggle → recognition of women’s claims → constitutional voting rights and equality"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u011",
+    "chapter_id": "women",
+    "title": "Telangana movement and post-independence legislation",
+    "source_pages": [
+      11
+    ],
+    "kind": "example",
+    "recall_points": [
+      "1946",
+      "1951",
+      "1948",
+      "Oppression by Nizam, Patils and Jagirdars",
+      "Exploitative Deshmukhs, Despandes and tax collectors",
+      "Vetti forced labour → exploitation of peasant girls",
+      "Child marriage",
+      "Restrictions on widow remarriage",
+      "Low wages",
+      "Hindu Marriage Act",
+      "Hindu Succession Act",
+      "Dowry Prohibition Act",
+      "Equal Remuneration Act"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u012",
+    "chapter_id": "women",
+    "title": "Chipko and women’s livelihoods",
+    "source_pages": [
+      12
+    ],
+    "kind": "example",
+    "recall_points": [
+      "1970s",
+      "27",
+      "Food, fodder, fuel, fibre, fertilizer → forest-linked livelihood needs → self-sufficiency",
+      "Adwani, Tehri Garhwal district of UP",
+      "Adivasi women; later Sunderlal Bahuguna",
+      "Hugging trees and tying sacred thread",
+      "Gaura Devi stopped contractors/forest personnel entering Reni forest",
+      "Women defended forest-linked food, fodder, fuel, fibre and fertilizer → protection of livelihoods and self-sufficiency through collective action"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u013",
+    "chapter_id": "women",
+    "title": "Anti-rape and anti-dowry movements",
+    "source_pages": [
+      13
+    ],
+    "kind": "example",
+    "recall_points": [
+      "Elite: cultural activities and beauty pageants",
+      "Poor/rural: peasant conditions, wife beating, alcoholism, dowry, sexual harassment",
+      "Mathura rape incident → protests and petitions → powerful people cannot violate poor/powerless people’s dignity and rights",
+      "Mahila Dakshata Samiti",
+      "Campaign against dowry, abetment to suicide and murder",
+      "Dowry demand recognised as potentially abetting suicide"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u014",
+    "chapter_id": "women",
+    "title": "Waves of feminism",
+    "source_pages": [
+      14
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "First: education, widows’ rights, child marriage; Ramabai, Savitribai Phule, Rukhmabai",
+      "Second: gender inequality, reproductive rights, violence, dowry; AIWC/university women’s studies centres",
+      "Third: intersectionality, gender justice, Dalit/marginalised rights",
+      "Fourth: online harassment, #MeToo",
+      "1850",
+      "1920s",
+      "1970s",
+      "80s",
+      "1980s",
+      "2000",
+      "Gender justice connected with Dalit and marginalised rights → attention to overlapping forms of disadvantage"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u015",
+    "chapter_id": "women",
+    "title": "Structural reasons for women’s inequality",
+    "source_pages": [
+      15,
+      16
+    ],
+    "kind": "mechanism",
+    "recall_points": [
+      "Caste boundary maintenance → control of property and sexuality → disinheritance, arranged marriage, child marriage",
+      "Purity associated with Anuloma and Pratiloma",
+      "Patriarchal",
+      "Patrilocal",
+      "Patrilineal",
+      "Husband and his parents make life choices",
+      "Pregnancy and child rearing → employment loss",
+      "Patriarchal, patrilocal, patrilineal family reinforces control",
+      "Son preference in funeral pyre and Shradha rituals",
+      "Discriminatory religious personal laws; example: triple talaq",
+      "Assumed gender roles and biases",
+      "Mass-media violence and normalised misogyny",
+      "Poor implementation of laws + patriarchal family/religious norms + economic restrictions + normalised misogyny → formal protection fails to transform lived status",
+      "Higher-caste restrictions overlap with class position",
+      "Upper-caste women engaged in unpaid domestic work",
+      "Control of women maintains caste boundaries"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u016",
+    "chapter_id": "women",
+    "title": "Meaning and pillars of empowerment",
+    "source_pages": [
+      17
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "Equal power, authority and freedom",
+      "Eliminating disabilities/social restrictions",
+      "Making life choices and reaching full potential",
+      "Accessing socioeconomic resources",
+      "Education → safety, transport, toilets",
+      "Health → nutrition, delayed marriage, reproductive authority",
+      "Economic → safe work, skills, SHGs, equal pay",
+      "Sociocultural → parental/kin attitudes, #MeToo",
+      "Political → local-body reservation and parliamentary representation",
+      "Empowerment requires women’s control over reproductive decisions → health and autonomy beyond simply managing fertility",
+      "73rd",
+      "74th"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u017",
+    "chapter_id": "women",
+    "title": "From welfare to agency",
+    "source_pages": [
+      18
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "Welfare → passive recipient of incentives",
+      "Development → health, education, employment; worker organisation/unionisation",
+      "Empowerment → SHGs, gender budgeting, enabling environment, local reservation",
+      "Later focus → gender equity and women’s agency",
+      "1951",
+      "1979",
+      "1980",
+      "1990",
+      "1992",
+      "2012",
+      "1953",
+      "1974",
+      "Committee on Status of Women in India (CSWI) → Towards Equality",
+      "STEP → Support to Training and Employment",
+      "AGP → Awareness Generation Programme for rural and poor women",
+      "Education/socioeconomic programmes",
+      "Working girls’ hostels and Short Stay Homes",
+      "Twelfth Plan onwards: gender equity, women’s agency and empowerment",
+      "Committee on Status of Women in India"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u018",
+    "chapter_id": "women",
+    "title": "Constitutional safeguards",
+    "source_pages": [
+      19
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "Equality of status and opportunity",
+      "Dignity",
+      "14",
+      "15(1)",
+      "15(3)",
+      "16",
+      "39(a)",
+      "39(d)",
+      "42",
+      "51(A)(e)",
+      "243D(3)",
+      "243D(4)",
+      "243T(3)",
+      "243T(4)",
+      "Non-discrimination → equal treatment",
+      "Affirmative action → targeted support for women",
+      "Both advance substantive access and opportunity"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u019",
+    "chapter_id": "women",
+    "title": "BNS, family courts and interfaith marriage",
+    "source_pages": [
+      20
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "64",
+      "80",
+      "85",
+      "77–79",
+      "Conciliators → women-friendly court procedures",
+      "1954",
+      "Hindu woman marrying a Christian man retains rights to her family’s ancestral property under the amended Hindu Succession Act"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u020",
+    "chapter_id": "women",
+    "title": "Marriage, succession, triple talaq and trafficking safeguards",
+    "source_pages": [
+      21
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "1955",
+      "1956",
+      "2005",
+      "Same lifestyle as husband",
+      "Freedom from torture at in-laws’ home",
+      "Husband’s financial support for child if wife cannot earn",
+      "Equal rights in ancestral property",
+      "Equal distribution of joint-family property on intestate death",
+      "2019",
+      "80",
+      "1",
+      "Spoken",
+      "Written",
+      "Electronic",
+      "Any other manner",
+      "14",
+      "15(1)",
+      "21",
+      "Combat trafficking and commercial sexual exploitation"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u021",
+    "chapter_id": "women",
+    "title": "Maternity and dowry",
+    "source_pages": [
+      22
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "1961",
+      "2017",
+      "26",
+      "Factories, mines, plantations and shops",
+      "Leave extension for illness due to pregnancy/delivery",
+      "5",
+      "District-level dowry prohibition officers",
+      "1,00,116",
+      "18",
+      "90s",
+      "Marriage assistance → criticism of indirectly promoting dowry",
+      "Sumangali textile-mill work to save dowry → dowry + bonded/child labour double burden"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u022",
+    "chapter_id": "women",
+    "title": "MTP thresholds and categories",
+    "source_pages": [
+      23
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "1971",
+      "20",
+      "24",
+      "Rape/incest survivors and minors",
+      "Marital-status change: widowhood/divorce",
+      "Physical disability or mental illness",
+      "Foetal abnormality cases",
+      "Humanitarian settings, disasters or emergencies",
+      "Medical Board",
+      "Earlier window → one RMP",
+      "Intermediate specified categories → two RMPs",
+      "Beyond threshold, substantial foetal abnormality → state/institution Medical Board"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u023",
+    "chapter_id": "women",
+    "title": "Child protection and marriage-age debate",
+    "source_pages": [
+      24
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "2012",
+      "18",
+      "2016",
+      "21",
+      "District child marriage prohibition officers",
+      "Support and rehabilitation",
+      "Awareness and education",
+      "Pros: empowerment; better maternal/infant health",
+      "Concerns: teenage pregnancy → unsafe abortions; longer perceived burden → further skewed sex ratio"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u024",
+    "chapter_id": "women",
+    "title": "Workplace harassment and sex selection",
+    "source_pages": [
+      25
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "2013",
+      "1994",
+      "Public and private",
+      "Organised and unorganised",
+      "All workplaces",
+      "Sex selection",
+      "Misuse of diagnostic techniques"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u025",
+    "chapter_id": "women",
+    "title": "Domestic violence and socialisation",
+    "source_pages": [
+      26
+    ],
+    "kind": "mechanism",
+    "recall_points": [
+      "2005",
+      "Patriarchy and socialisation",
+      "Unemployment",
+      "Low self-esteem, jealousy, anger",
+      "Children observe violence → learn to regard it as normal → normalisation of violent behaviour",
+      "False cases",
+      "Subjective interpretation of verbal abuse and mental harassment"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u026",
+    "chapter_id": "women",
+    "title": "Adultery and dignity",
+    "source_pages": [
+      27
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "497",
+      "21",
+      "Violation of women’s dignity/right to life",
+      "Adultery remains a ground for divorce or cases of abetment to suicide, as described in the slide"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u027",
+    "chapter_id": "women",
+    "title": "Gender budgeting",
+    "source_pages": [
+      28
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "Gender lens applied to public spending",
+      "Ministry of Women and Child Development",
+      "2005–06",
+      "100",
+      "30",
+      "99",
+      "5.01",
+      "9.37",
+      "Gender lens → identify spending for women/girls → resource allocation supports enabling conditions for empowerment",
+      "Gender Budget"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u028",
+    "chapter_id": "women",
+    "title": "National Commission for Women",
+    "source_pages": [
+      29
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "Review legislation",
+      "Investigate women’s safeguards",
+      "Gender training programmes",
+      "Suo motu action",
+      "Summoning, requisitioning records, evidence and affidavits",
+      "Limited consultation in policy",
+      "Members insufficiently informed of changing trends",
+      "Restricted practical autonomy/selectivity",
+      "Non-binding recommendations",
+      "Financial constraints"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u029",
+    "chapter_id": "women",
+    "title": "Mission Shakti architecture",
+    "source_pages": [
+      30,
+      31,
+      32
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "Mission Shakti: safety and empowerment across life stages",
+      "Sambal: safety, protection, immediate support",
+      "Samarthya: care, services, empowerment",
+      "One Stop Centres → medical/legal/police assistance, counselling, temporary shelter",
+      "Women Helpline → support/referral",
+      "Beti Bachao Beti Padhao → awareness/action for girl child",
+      "Nari Adalat → community-level collective dispute resolution",
+      "Nirbhaya Fund → finances centres and helpline",
+      "181",
+      "24",
+      "Shakti Sadan → shelter/rehabilitation for women in distress",
+      "Sakhi Niwas → working women’s safe accommodation",
+      "Palna → crèche care",
+      "PMMVY → maternity benefit for eligible pregnant/lactating women",
+      "SANKALP/Hub for Empowerment of Women → access to schemes/services",
+      "6",
+      "Immediate protection addresses violence/distress",
+      "Shelter, childcare and maternity support address care constraints",
+      "Together support women across life stages"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u030",
+    "chapter_id": "women",
+    "title": "PMMVY and maternal-support comparison",
+    "source_pages": [
+      33,
+      34
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "5,000",
+      "2",
+      "6,000",
+      "Partly compensate wage loss around childbirth",
+      "Antenatal checks",
+      "Birth registration",
+      "First immunisation cycle",
+      "Direct payment to woman’s account",
+      "JSY/Janani Suraksha Yojana → encourage institutional delivery; cash incentive",
+      "PMMVY/Pradhan Mantri Matru Vandana Yojana → rest/maternal care; maternity cash benefit",
+      "JSSK/Janani Shishu Suraksha Karyakaram → remove costs at public facilities; free healthcare/transport",
+      "Pregnant women using public facilities and sick infants",
+      "Free delivery, medicines, tests, diet and transport",
+      "No cash payment",
+      "JSY: state-category rules; eligible-facility delivery; NHM; amount varies by state/rural–urban location",
+      "PMMVY: eligible pregnant/lactating women; care/registration/immunisation conditions; Mission Shakti–Samarthya",
+      "JSSK: public-facility users/sick infants; NHM; free services",
+      "JSY incentivises facility delivery",
+      "PMMVY partly offsets wage loss/rest costs",
+      "JSSK removes healthcare/transport costs",
+      "Different barriers addressed by different benefits"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u031",
+    "chapter_id": "women",
+    "title": "Adolescent girls under POSHAN",
+    "source_pages": [
+      33
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "14",
+      "18",
+      "Aspirational Districts and northeastern states",
+      "Supplementary nutrition and iron–folic acid",
+      "Health checks and nutrition education",
+      "Referrals and skills-related support"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u032",
+    "chapter_id": "women",
+    "title": "Pre-independence organisations",
+    "source_pages": [
+      35
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "1917",
+      "1923",
+      "1927",
+      "1873",
+      "Adyar",
+      "Margaret Cousins and Dorothy Jinarajadasa; Annie Besant first president",
+      "Women’s education, suffrage and political representation",
+      "NCWI → Lady Meherbai Tata; regional councils; women’s/children’s welfare",
+      "AIWC → Margaret Cousins; education, later child-marriage/legal reform",
+      "Satyashodhak Samaj → Jyotirao Phule → social equality and women’s education"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u033",
+    "chapter_id": "women",
+    "title": "SEWA and financial organisation",
+    "source_pages": [
+      36
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "Ela Bhatt, Gujarat",
+      "SEWA: informal-sector street vendors, domestic workers, agricultural labourers, artisans, self-employed women",
+      "Friends of Women’s World Banking: informal credit support and networks",
+      "Organise informal workers → skills, credit/savings, income-generating activity support → stronger livelihoods",
+      "Policy advocacy → supportive regulations"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u034",
+    "chapter_id": "women",
+    "title": "Post-independence organisations and intersectionality",
+    "source_pages": [
+      37
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "CPI(M)",
+      "Women’s rights, education, employment, casteism, communalism, child rights, disaster aid",
+      "Campaign against HLL’s Fair and Lovely",
+      "YWCA → marginalised women regardless of age, caste or religion",
+      "Dalit Mahila Adhikar Manch → intersection of patriarchy, caste, culture, class and caste oppression",
+      "125",
+      "Patriarchy + caste + class/culture → overlapping oppression",
+      "Intersectionality and gender justice → attention to Dalit/marginalised rights"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u035",
+    "chapter_id": "women",
+    "title": "International women’s institutions",
+    "source_pages": [
+      38
+    ],
+    "kind": "institution",
+    "recall_points": [
+      "Help intergovernmental bodies frame global standards",
+      "Support member states’ implementation",
+      "Global cooperation and coordination in women’s upliftment",
+      "CEDAW → Convention on the Elimination of All Forms of Discrimination against Women",
+      "International human-rights treaty",
+      "IWRAW works on women’s human rights under it"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u036",
+    "chapter_id": "women",
+    "title": "Permanent commission in armed forces",
+    "source_pages": [
+      39
+    ],
+    "kind": "concept",
+    "recall_points": [
+      "A career in the armed forces until retirement",
+      "0.5",
+      "1",
+      "6.5",
+      "10",
+      "Support: equality; physical-criteria relaxation already exists for men from hilly regions and in IPS",
+      "Concerns: low acceptance of female bosses, infrastructure difficulties, vulnerability to harassment"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u037",
+    "chapter_id": "women",
+    "title": "Women — chapter reconstruction",
+    "source_pages": [
+      1,
+      2,
+      8,
+      15,
+      17,
+      18,
+      19,
+      29,
+      30,
+      35,
+      39
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Life-cycle discrimination",
+      "Gender gap",
+      "Historical reform",
+      "Patriarchy",
+      "Caste/class",
+      "Unpaid care",
+      "Agency",
+      "Five pillars",
+      "Constitutional safeguards",
+      "Legal protection",
+      "Gender budgeting",
+      "NCW",
+      "Mission Shakti",
+      "Collective organisation",
+      "Permanent commission",
+      "Patriarchy/caste/family norms → restricted choices, resources and work → unequal status",
+      "Rights + implementation + education/health + economic resources + collective organisation → agency and empowerment"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u038",
+    "chapter_id": "women",
+    "title": "Women — care, work and agency",
+    "source_pages": [
+      6,
+      7,
+      15,
+      16,
+      17,
+      22,
+      32,
+      33
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Unpaid care/pregnancy-child rearing → constrained paid work",
+      "Maternity benefits + crèches + safe accommodation/work + skills/equal pay → enabling conditions",
+      "Economic participation and reproductive authority strengthen agency",
+      "PLFS 2025: female LFPR 40.0%, male 79.1%; women’s earnings 76% of men’s",
+      "2024 domestic work: 289 vs 88 minutes; Lok Sabha 74/543",
+      "NFHS-5: women’s anaemia 57%; SRS 2022–24 MMR 87",
+      "NFHS-6: institutional births 90.6%, early marriage 20.1%",
+      "AISHE 2023–24 higher education: 49.7% women"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u039",
+    "chapter_id": "women",
+    "title": "Women — movements and organisation",
+    "source_pages": [
+      9,
+      10,
+      12,
+      13,
+      14,
+      35,
+      36,
+      37,
+      38
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Social reform: education, sati, widow remarriage",
+      "Nationalism: political/labour participation → equality/vote",
+      "Grassroots: forests, livelihoods, rape and dowry",
+      "Feminist waves: rights → reproductive justice → intersectionality → online harassment",
+      "Organisations: informal work, credit, Dalit rights and global standards",
+      "Gargi/Maitreyi → early participation",
+      "Ramabai/Sharda Sadan → destitute widows",
+      "Gaura Devi/Chipko → collective livelihoods",
+      "Mathura → anti-rape mobilisation",
+      "Sumangali → dowry plus bonded/child labour",
+      "Ela Bhatt/SEWA → informal-worker organisation",
+      "Dalit Mahila Adhikar Manch → intersecting oppression"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  },
+  {
+    "id": "women-u040",
+    "chapter_id": "women",
+    "title": "Women — safeguards and contradictions",
+    "source_pages": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      23,
+      25,
+      28,
+      29,
+      30,
+      34
+    ],
+    "kind": "synthesis",
+    "recall_points": [
+      "Constitution: equality, non-discrimination, affirmative action, work/maternity, dignity, local representation",
+      "Laws: violence, marriage/property, maternity/reproduction, child protection, workplace and sex selection",
+      "CSWI/Towards Equality; NCW",
+      "Gender budgeting",
+      "Mission Shakti: Sambal/Samarthya",
+      "JSY–PMMVY–JSSK",
+      "Formal rights versus weak implementation",
+      "Education parity versus employment/leadership gaps",
+      "Protection versus limited practical autonomy",
+      "Marriage assistance versus dowry reinforcement",
+      "Permanent-commission equality versus institutional/social barriers"
+    ],
+    "importance": "high",
+    "related_unit_ids": []
+  }
+]

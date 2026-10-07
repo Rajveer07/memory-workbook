@@ -1,0 +1,6270 @@
+[
+  {
+    "id": "women-q001",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u001"
+    ],
+    "source_pages": [
+      1
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Chapter architecture"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the major sections of the women chapter.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Status and historical perspective → reasons for inequality → safeguards → women’s organisations → role models and way forward"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q002",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u002"
+    ],
+    "source_pages": [
+      2
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Life cycle of discrimination"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the life cycle of discrimination from womb to tomb.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Foetus: sex selection, female foeticide",
+        "Infant: infanticide, malnutrition",
+        "Early age: neglected care and education, sexual abuse, physical violence",
+        "Adolescence: early marriage/pregnancy, sexual and domestic violence, dowry harassment, marital rape, son preference, desertion, maternal mortality",
+        "Older women/widows: witch-hunt, desertion, emotional/social/financial neglect, feminisation of elderly"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q003",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u002"
+    ],
+    "source_pages": [
+      2
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Life cycle of discrimination"
+    ],
+    "quick_recall": false,
+    "prompt": "Why is discrimination described as “from womb to tomb”?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Sex selection before birth → deprivation and violence in childhood → marriage/reproductive coercion → neglect and widowhood in old age"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q004",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u002"
+    ],
+    "source_pages": [
+      2
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Life cycle of discrimination"
+    ],
+    "quick_recall": true,
+    "prompt": "Which forms of vulnerability are associated with older women and widows?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Witch-hunt",
+        "Desertion",
+        "Emotional, social and financial neglect",
+        "Feminisation of elderly: widowhood"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q005",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u003"
+    ],
+    "source_pages": [
+      3
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Crime frequency figures"
+    ],
+    "quick_recall": true,
+    "prompt": "In the chapter’s crime-frequency figures, a woman is raped every {{b1}} minutes; cruelty by in-laws occurs every {{b2}} minutes; a dowry death is reported every {{b3}} minutes.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "18",
+        "4",
+        "90"
+      ]
+    },
+    "source_note": "Page attributes these figures to “NRCB and other credible sources”; no reference year is supplied.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "18",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "4",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "90",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q006",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u003"
+    ],
+    "source_pages": [
+      3
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Crime frequency figures"
+    ],
+    "quick_recall": true,
+    "prompt": "The material states that over {{b1}} cases of crimes against women are lodged per hour across India.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "50"
+      ]
+    },
+    "source_note": "No reference year supplied on the page.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "50",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q007",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u003"
+    ],
+    "source_pages": [
+      3
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Crime frequency figures"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the range of crimes included in the chapter’s hourly crime figure.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Rape, rape with murder",
+        "Dowry, acid attacks, suicide",
+        "Kidnapping, forced marriage, human trafficking",
+        "Online harassment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q008",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u004"
+    ],
+    "source_pages": [
+      4,
+      5
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Global Gender Gap Index"
+    ],
+    "quick_recall": true,
+    "prompt": "In the Global Gender Gap Index {{b1}} edition, India ranks {{b2}} out of {{b3}} economies with a gender-parity score of {{b4}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2026",
+        "131",
+        "145",
+        "64.5"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2026",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "131",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "145",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "64.5",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q009",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u004"
+    ],
+    "source_pages": [
+      4,
+      5
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Global Gender Gap Index"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the four dimensions of the Global Gender Gap Index and their indicators.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Economic participation/opportunity: LFPR, wage equality, estimated earned income",
+        "Educational attainment: literacy and primary/secondary/tertiary enrolment",
+        "Health and survival: sex ratio at birth, healthy life expectancy",
+        "Political empowerment: parliamentary/ministerial representation, years with female/male head of state"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q010",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u004"
+    ],
+    "source_pages": [
+      4,
+      5
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Global Gender Gap Index"
+    ],
+    "quick_recall": false,
+    "prompt": "Why must women’s status be assessed across several dimensions?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Economic opportunity, education, health and political power are distinct dimensions → one aggregate score can conceal uneven parity"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q011",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u004"
+    ],
+    "source_pages": [
+      4,
+      5
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Global Gender Gap Index"
+    ],
+    "quick_recall": true,
+    "prompt": "In the page-5 gender-gap table, India’s overall index score/rank in 2026 are {{b1}} / {{b2}}; in 2025 they are {{b3}} / {{b4}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "0.645",
+        "131",
+        "0.644",
+        "131"
+      ]
+    },
+    "source_note": "Read from the embedded table; scores are on a 0–1 parity scale.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "0.645",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "131",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "0.644",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "131",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q012",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u004"
+    ],
+    "source_pages": [
+      4,
+      5
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Global Gender Gap Index"
+    ],
+    "quick_recall": true,
+    "prompt": "In the page-5 gender-gap table, India’s economic participation and opportunity score/rank in 2026 are {{b1}} / {{b2}}; in 2025 they are {{b3}} / {{b4}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "0.412",
+        "143",
+        "0.407",
+        "144"
+      ]
+    },
+    "source_note": "Read from the embedded table; scores are on a 0–1 parity scale.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "0.412",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "143",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "0.407",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "144",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q013",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u004"
+    ],
+    "source_pages": [
+      4,
+      5
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Global Gender Gap Index"
+    ],
+    "quick_recall": true,
+    "prompt": "In the page-5 gender-gap table, India’s educational attainment score/rank in 2026 are {{b1}} / {{b2}}; in 2025 they are {{b3}} / {{b4}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "0.966",
+        "112",
+        "0.971",
+        "110"
+      ]
+    },
+    "source_note": "Read from the embedded table; scores are on a 0–1 parity scale.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "0.966",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "112",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "0.971",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "110",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q014",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u004"
+    ],
+    "source_pages": [
+      4,
+      5
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Global Gender Gap Index"
+    ],
+    "quick_recall": true,
+    "prompt": "In the page-5 gender-gap table, India’s health and survival score/rank in 2026 are {{b1}} / {{b2}}; in 2025 they are {{b3}} / {{b4}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "0.956",
+        "136",
+        "0.954",
+        "143"
+      ]
+    },
+    "source_note": "Read from the embedded table; scores are on a 0–1 parity scale.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "0.956",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "136",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "0.954",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "143",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q015",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u004"
+    ],
+    "source_pages": [
+      4,
+      5
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Global Gender Gap Index"
+    ],
+    "quick_recall": true,
+    "prompt": "In the page-5 gender-gap table, India’s political empowerment score/rank in 2026 are {{b1}} / {{b2}}; in 2025 they are {{b3}} / {{b4}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "0.245",
+        "67",
+        "0.245",
+        "69"
+      ]
+    },
+    "source_note": "Read from the embedded table; scores are on a 0–1 parity scale.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "0.245",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "67",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "0.245",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "69",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q016",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u004"
+    ],
+    "source_pages": [
+      4,
+      5
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Global Gender Gap Index"
+    ],
+    "quick_recall": false,
+    "prompt": "What unevenness does the gender-gap radar chart show?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Education and health scores are close to parity",
+        "Economic participation and political empowerment scores are much lower"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q017",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u005"
+    ],
+    "source_pages": [
+      6,
+      15
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Women’s employment and unpaid work"
+    ],
+    "quick_recall": true,
+    "prompt": "Female LFPR under PLFS 2025 (usual status) is {{b1}}%; the male LFPR stated on page 15 is {{b2}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "40.0",
+        "79.1"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "40.0",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "79.1",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q018",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u005"
+    ],
+    "source_pages": [
+      6,
+      15
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Women’s employment and unpaid work"
+    ],
+    "quick_recall": true,
+    "prompt": "Unpaid domestic work among participants in 2024 takes {{b1}} minutes for women versus {{b2}} minutes for men.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "289",
+        "88"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "289",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "88",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q019",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u005"
+    ],
+    "source_pages": [
+      6,
+      15
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Women’s employment and unpaid work"
+    ],
+    "quick_recall": true,
+    "prompt": "According to PLFS 2025, salaried women’s average earnings equal {{b1}}% of men’s.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "76"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "76",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q020",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u005"
+    ],
+    "source_pages": [
+      6,
+      15
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Women’s employment and unpaid work"
+    ],
+    "quick_recall": false,
+    "prompt": "How does unpaid care constrain women’s participation in paid work?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Unpaid domestic/care work consumes time → fewer paid-work opportunities → lower female labour-force participation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q021",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u006"
+    ],
+    "source_pages": [
+      6
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Representation and gender norms"
+    ],
+    "quick_recall": true,
+    "prompt": "In 2024, {{b1}} women were elected to the Lok Sabha out of {{b2}} seats.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "74",
+        "543"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "74",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "543",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q022",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u006"
+    ],
+    "source_pages": [
+      6
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Representation and gender norms"
+    ],
+    "quick_recall": true,
+    "prompt": "About {{b1}}% of NSE-listed firms have a woman MD/CEO (2026); women hold {{b2}}% of board seats in the studied NSE top {{b3}} (2025).",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "5",
+        "20",
+        "200"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "5",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "20",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "200",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q023",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u006"
+    ],
+    "source_pages": [
+      6
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Representation and gender norms"
+    ],
+    "quick_recall": true,
+    "prompt": "The survey mentioned on page 6 dates to {{b1}}; about {{b2}} of respondents in most studied locations disapproved of married women working when husbands earned well.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2016",
+        "half"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2016",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "half",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q024",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u006"
+    ],
+    "source_pages": [
+      6
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Representation and gender norms"
+    ],
+    "quick_recall": true,
+    "prompt": "Census child sex ratio (ages 0–6) declined from {{b1}} girls per 1,000 boys in 2001 to {{b2}} in 2011.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "927",
+        "919"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "927",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "919",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q025",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u006"
+    ],
+    "source_pages": [
+      6
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Representation and gender norms"
+    ],
+    "quick_recall": false,
+    "prompt": "How can gender norms constrain women’s work even when household income is adequate?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Disapproval of married women working when husbands earn well → social restriction independent of financial need → lower participation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q026",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u007"
+    ],
+    "source_pages": [
+      7
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Women’s health, early marriage and education"
+    ],
+    "quick_recall": true,
+    "prompt": "NFHS-5 (2019–21): {{b1}}% of women aged 15–49 are anaemic.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "57"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "57",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q027",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u007"
+    ],
+    "source_pages": [
+      7
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Women’s health, early marriage and education"
+    ],
+    "quick_recall": true,
+    "prompt": "SRS 2022–24: maternal mortality is {{b1}} per 100,000 live births.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "87"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "87",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q028",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u007"
+    ],
+    "source_pages": [
+      7
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Women’s health, early marriage and education"
+    ],
+    "quick_recall": true,
+    "prompt": "NFHS-6 (2023–24): institutional births reached {{b1}}%; {{b2}}% of women aged 20–24 married before age 18.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "90.6",
+        "20.1"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "90.6",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "20.1",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q029",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u007"
+    ],
+    "source_pages": [
+      7
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Women’s health, early marriage and education"
+    ],
+    "quick_recall": true,
+    "prompt": "PLFS 2025 (age 7+): rural literacy is {{b1}}% for women and {{b2}}% for men; urban literacy is {{b3}}% for women and {{b4}}% for men.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "70.3",
+        "84.8",
+        "84.8",
+        "93.1"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "70.3",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "84.8",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "84.8",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "93.1",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q030",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u007"
+    ],
+    "source_pages": [
+      7
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Women’s health, early marriage and education"
+    ],
+    "quick_recall": true,
+    "prompt": "The page’s education figures show women at {{b1}}% of higher-education enrolment (AISHE 2023–24), {{b2}}% of PhD enrolment and {{b3}}% of undergraduate engineering enrolment.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "49.7",
+        "49.8",
+        "31.1"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "49.7",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "49.8",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "31.1",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q031",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u007"
+    ],
+    "source_pages": [
+      7
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Women’s health, early marriage and education"
+    ],
+    "quick_recall": false,
+    "prompt": "What contrast between education access and subject participation is visible in these figures?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Women are about half of higher-education/PhD enrolment",
+        "Their undergraduate engineering share is much lower"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q032",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u008"
+    ],
+    "source_pages": [
+      8
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Vedic and medieval status"
+    ],
+    "quick_recall": false,
+    "prompt": "Reproduce the chapter’s explanation for the change from early to later Vedic women’s status.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Pastoral/nomadic economy → no economic surplus/private property → egalitarianism",
+        "Agriculture → division of labour → Grihapathi control over women"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q033",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u008"
+    ],
+    "source_pages": [
+      8
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Vedic and medieval status"
+    ],
+    "quick_recall": true,
+    "prompt": "Recall the early Vedic women and institutions named in the material.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Gargi and Maitreyi → Sabhas and Samitis"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q034",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u008"
+    ],
+    "source_pages": [
+      8
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Vedic and medieval status"
+    ],
+    "quick_recall": false,
+    "prompt": "What practices and movements characterise the later Vedic and medieval discussion?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Stridharma, Pativratadharma, ritual purification and fasts",
+        "Bhakti and Lingayat movements: egalitarianism",
+        "Polygamy, purdah and talaq: continued prejudices",
+        "Mughal intervention in sati"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q035",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u009"
+    ],
+    "source_pages": [
+      9
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Colonial social reform"
+    ],
+    "quick_recall": false,
+    "prompt": "How did British education contribute to questioning women’s unequal status?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "British education → emergence of a new elite → questioning existing social practices"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q036",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u009"
+    ],
+    "source_pages": [
+      9
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Colonial social reform"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall Raja Ram Mohan Roy and Brahmo Samaj’s reform concerns.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Sati",
+        "Female infanticide",
+        "Restrictions on widow remarriage",
+        "Illiteracy",
+        "Polygamy"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q037",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u009"
+    ],
+    "source_pages": [
+      9
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Colonial social reform"
+    ],
+    "quick_recall": true,
+    "prompt": "The Abolition of Sati Act is dated {{b1}}; the Widow Remarriage Act associated with Ishwar Chandra Vidyasagar is dated {{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1829",
+        "1856"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1829",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1856",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q038",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u009"
+    ],
+    "source_pages": [
+      9
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Colonial social reform"
+    ],
+    "quick_recall": false,
+    "prompt": "Match the education-focused reform organisations with their figures.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Arya Samaj → Dayanand Saraswati",
+        "Prarthana Samaj → M.G. Ranade and R.G. Bhandarkar",
+        "Brahmo Samaj and Arya Samaj → mahila mandals"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q039",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u009"
+    ],
+    "source_pages": [
+      9
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Colonial social reform"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the reform contributions of Veeresalingam, Karve, Tyabji and Ramabai.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Kandukuri Veeresalingam → widow remarriage",
+        "D.K. Karve → SNDT women’s university",
+        "Badruddin Tyabji/Muslim self-help association → girls’ schools, orphanages, nursing centres",
+        "Pandita Ramabai → Sharda Sadan for destitute widows"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q040",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u009"
+    ],
+    "source_pages": [
+      9
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Colonial social reform"
+    ],
+    "quick_recall": true,
+    "prompt": "D.K. Karve established the SNDT women’s university in {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1916"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1916",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q041",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u010"
+    ],
+    "source_pages": [
+      10
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Women in the nationalist movement"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the women–organisation associations in the nationalist movement.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Sarala Devi → Bharat Stree Maha Mandal, Allahabad",
+        "Parvati Devi → Kanchi Mahila Parishad",
+        "Annie Besant → Theosophical Society",
+        "Women India Association → influence on government policies"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q042",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u010"
+    ],
+    "source_pages": [
+      10
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Women in the nationalist movement"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the contributions attributed to Kamala Devi Chattopadhyay, Rukmabai Raut and Mutthu Lakshmi Reddy.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Kamala Devi → first woman to contest elections; Civil Disobedience picketing",
+        "Rukmabai Raut → described as first Indian woman to have studied medicine",
+        "Mutthu Lakshmi Reddy → first woman nominated to Legislative Council; opposed Devadasi system and brothels"
+      ]
+    },
+    "source_note": "These are the descriptions used in the supplied slide."
+  },
+  {
+    "id": "women-q043",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u010"
+    ],
+    "source_pages": [
+      10
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Women in the nationalist movement"
+    ],
+    "quick_recall": false,
+    "prompt": "Which nationalist activities illustrate women’s direct political participation?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Sarojini Naidu → Dandi March and second Round Table Conference",
+        "Quit India → demonstrations, camps, Political Prisoners Relief Fund",
+        "INA → Rani Jhansi Regiment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q044",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u010"
+    ],
+    "source_pages": [
+      10
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Women in the nationalist movement"
+    ],
+    "quick_recall": true,
+    "prompt": "Anasuya Sarabhai led the Ahmedabad textile workers’ strike in {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1917"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1917",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q045",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u010"
+    ],
+    "source_pages": [
+      10
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Women in the nationalist movement"
+    ],
+    "quick_recall": true,
+    "prompt": "Match the labour leaders to their constituencies.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Anasuya Sarabhai → Ahmedabad textile workers",
+        "Maniben Kara → socialist railway-worker leader",
+        "Parvati Bhore and Ushabai Dange → communist textile-worker leaders"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q046",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u010"
+    ],
+    "source_pages": [
+      10
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Women in the nationalist movement"
+    ],
+    "quick_recall": false,
+    "prompt": "How did women’s participation in the freedom struggle influence their constitutional position, according to the chapter?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Political participation and collective struggle → recognition of women’s claims → constitutional voting rights and equality"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q047",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u011"
+    ],
+    "source_pages": [
+      11
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Telangana movement and post-independence legislation"
+    ],
+    "quick_recall": true,
+    "prompt": "The Telangana movement is dated {{b1}}–{{b2}}; the Operation Polo mentioned on the slide took place in {{b3}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1946",
+        "1951",
+        "1948"
+      ]
+    },
+    "source_note": "The slide also says the movement ceased after Operation Polo; both statements are retained as source descriptions.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1946",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1951",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "1948",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q048",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u011"
+    ],
+    "source_pages": [
+      11
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Telangana movement and post-independence legislation"
+    ],
+    "quick_recall": false,
+    "prompt": "Why did women participate in the Telangana movement?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Oppression by Nizam, Patils and Jagirdars",
+        "Exploitative Deshmukhs, Despandes and tax collectors",
+        "Vetti forced labour → exploitation of peasant girls"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q049",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u011"
+    ],
+    "source_pages": [
+      11
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Telangana movement and post-independence legislation"
+    ],
+    "quick_recall": true,
+    "prompt": "What did the women’s organisation and Andhra Vanita journal campaign against?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Child marriage",
+        "Restrictions on widow remarriage",
+        "Low wages"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q050",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u011"
+    ],
+    "source_pages": [
+      11
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Telangana movement and post-independence legislation"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the post-independence laws listed after the Telangana discussion.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Hindu Marriage Act",
+        "Hindu Succession Act",
+        "Dowry Prohibition Act",
+        "Equal Remuneration Act"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q051",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u012"
+    ],
+    "source_pages": [
+      12
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Chipko and women’s livelihoods"
+    ],
+    "quick_recall": true,
+    "prompt": "The Chipko discussion is situated in the {{b1}}; Gaura Devi led {{b2}} village women to protect Reni forest.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1970s",
+        "27"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1970s",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      },
+      {
+        "id": "b2",
+        "answer": "27",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q052",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u012"
+    ],
+    "source_pages": [
+      12
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Chipko and women’s livelihoods"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall Chipko’s five Fs and explain their connection to self-sufficiency.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Food, fodder, fuel, fibre, fertilizer → forest-linked livelihood needs → self-sufficiency"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q053",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u012"
+    ],
+    "source_pages": [
+      12
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Chipko and women’s livelihoods"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the location, leadership and tactics of Chipko described in this chapter.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Adwani, Tehri Garhwal district of UP",
+        "Adivasi women; later Sunderlal Bahuguna",
+        "Hugging trees and tying sacred thread",
+        "Gaura Devi stopped contractors/forest personnel entering Reni forest"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q054",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u012"
+    ],
+    "source_pages": [
+      12
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Chipko and women’s livelihoods"
+    ],
+    "quick_recall": false,
+    "prompt": "Why is Chipko relevant to women’s empowerment rather than only forest conservation?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Women defended forest-linked food, fodder, fuel, fibre and fertilizer → protection of livelihoods and self-sufficiency through collective action"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q055",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u013"
+    ],
+    "source_pages": [
+      13
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "relationship",
+    "importance": "high",
+    "tags": [
+      "Anti-rape and anti-dowry movements"
+    ],
+    "quick_recall": false,
+    "prompt": "How did the priorities of elite women and poor/rural women differ in the 1970s discussion?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Elite: cultural activities and beauty pageants",
+        "Poor/rural: peasant conditions, wife beating, alcoholism, dowry, sexual harassment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q056",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u013"
+    ],
+    "source_pages": [
+      13
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Anti-rape and anti-dowry movements"
+    ],
+    "quick_recall": false,
+    "prompt": "What triggered the anti-rape movement and what principle did it assert?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Mathura rape incident → protests and petitions → powerful people cannot violate poor/powerless people’s dignity and rights"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q057",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u013"
+    ],
+    "source_pages": [
+      13
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Anti-rape and anti-dowry movements"
+    ],
+    "quick_recall": false,
+    "prompt": "Which organisation is associated with the anti-dowry movement, and what legal recognition followed?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Mahila Dakshata Samiti",
+        "Campaign against dowry, abetment to suicide and murder",
+        "Dowry demand recognised as potentially abetting suicide"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q058",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u014"
+    ],
+    "source_pages": [
+      14
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Waves of feminism"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the changing concerns of the four feminist waves in the material.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "First: education, widows’ rights, child marriage; Ramabai, Savitribai Phule, Rukhmabai",
+        "Second: gender inequality, reproductive rights, violence, dowry; AIWC/university women’s studies centres",
+        "Third: intersectionality, gender justice, Dalit/marginalised rights",
+        "Fourth: online harassment, #MeToo"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q059",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u014"
+    ],
+    "source_pages": [
+      14
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Waves of feminism"
+    ],
+    "quick_recall": true,
+    "prompt": "The first feminist wave is dated {{b1}} to the {{b2}}; the second to the {{b3}}–{{b4}}; the third begins in the {{b5}}; the technology-era fourth follows {{b6}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1850",
+        "1920s",
+        "1970s",
+        "80s",
+        "1980s",
+        "2000"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1850",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1920s",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      },
+      {
+        "id": "b3",
+        "answer": "1970s",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "text"
+      },
+      {
+        "id": "b4",
+        "answer": "80s",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "text"
+      },
+      {
+        "id": "b5",
+        "answer": "1980s",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "text"
+      },
+      {
+        "id": "b6",
+        "answer": "2000",
+        "accepted_answers": [],
+        "label": "Blank 6",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q060",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u014"
+    ],
+    "source_pages": [
+      14
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Waves of feminism"
+    ],
+    "quick_recall": false,
+    "prompt": "Why does intersectionality expand the focus of the women’s movement?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Gender justice connected with Dalit and marginalised rights → attention to overlapping forms of disadvantage"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q061",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u015"
+    ],
+    "source_pages": [
+      15,
+      16
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Structural reasons for women’s inequality"
+    ],
+    "quick_recall": false,
+    "prompt": "How does preserving caste boundaries lead to control over women?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Caste boundary maintenance → control of property and sexuality → disinheritance, arranged marriage, child marriage",
+        "Purity associated with Anuloma and Pratiloma"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q062",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u015"
+    ],
+    "source_pages": [
+      15,
+      16
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Structural reasons for women’s inequality"
+    ],
+    "quick_recall": true,
+    "prompt": "Recall the three academic terms characterising the Indian family system.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Patriarchal",
+        "Patrilocal",
+        "Patrilineal"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q063",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u015"
+    ],
+    "source_pages": [
+      15,
+      16
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Structural reasons for women’s inequality"
+    ],
+    "quick_recall": false,
+    "prompt": "How do marriage and family arrangements restrict women’s choices?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Husband and his parents make life choices",
+        "Pregnancy and child rearing → employment loss",
+        "Patriarchal, patrilocal, patrilineal family reinforces control"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q064",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u015"
+    ],
+    "source_pages": [
+      15,
+      16
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Structural reasons for women’s inequality"
+    ],
+    "quick_recall": false,
+    "prompt": "What religious and cultural mechanisms reinforce gender inequality in the chapter?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Son preference in funeral pyre and Shradha rituals",
+        "Discriminatory religious personal laws; example: triple talaq",
+        "Assumed gender roles and biases",
+        "Mass-media violence and normalised misogyny"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q065",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u015"
+    ],
+    "source_pages": [
+      15,
+      16
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Structural reasons for women’s inequality"
+    ],
+    "quick_recall": false,
+    "prompt": "Why can gender inequality persist despite protective legislation?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Poor implementation of laws + patriarchal family/religious norms + economic restrictions + normalised misogyny → formal protection fails to transform lived status"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q066",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u015"
+    ],
+    "source_pages": [
+      15,
+      16
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "relationship",
+    "importance": "high",
+    "tags": [
+      "Structural reasons for women’s inequality"
+    ],
+    "quick_recall": false,
+    "prompt": "How do caste and class overlap in women’s work restrictions?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Higher-caste restrictions overlap with class position",
+        "Upper-caste women engaged in unpaid domestic work",
+        "Control of women maintains caste boundaries"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q067",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u016"
+    ],
+    "source_pages": [
+      17
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Meaning and pillars of empowerment"
+    ],
+    "quick_recall": true,
+    "prompt": "Define women’s empowerment using the chapter’s core terms.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Equal power, authority and freedom",
+        "Eliminating disabilities/social restrictions",
+        "Making life choices and reaching full potential",
+        "Accessing socioeconomic resources"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q068",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u016"
+    ],
+    "source_pages": [
+      17
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Meaning and pillars of empowerment"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the five pillars of empowerment and one intervention under each.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Education → safety, transport, toilets",
+        "Health → nutrition, delayed marriage, reproductive authority",
+        "Economic → safe work, skills, SHGs, equal pay",
+        "Sociocultural → parental/kin attitudes, #MeToo",
+        "Political → local-body reservation and parliamentary representation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q069",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u016"
+    ],
+    "source_pages": [
+      17
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Meaning and pillars of empowerment"
+    ],
+    "quick_recall": false,
+    "prompt": "Why does the health pillar emphasise reproductive authority rather than mere fertility?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Empowerment requires women’s control over reproductive decisions → health and autonomy beyond simply managing fertility"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q070",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u016"
+    ],
+    "source_pages": [
+      17
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Meaning and pillars of empowerment"
+    ],
+    "quick_recall": true,
+    "prompt": "The constitutional amendments named for political empowerment through local bodies are the {{b1}} and {{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "73rd",
+        "74th"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "73rd",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      },
+      {
+        "id": "b2",
+        "answer": "74th",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q071",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u017"
+    ],
+    "source_pages": [
+      18
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "From welfare to agency"
+    ],
+    "quick_recall": false,
+    "prompt": "How did the development approach to women change from welfare to empowerment?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Welfare → passive recipient of incentives",
+        "Development → health, education, employment; worker organisation/unionisation",
+        "Empowerment → SHGs, gender budgeting, enabling environment, local reservation",
+        "Later focus → gender equity and women’s agency"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q072",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u017"
+    ],
+    "source_pages": [
+      18
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "From welfare to agency"
+    ],
+    "quick_recall": true,
+    "prompt": "The welfare approach covers {{b1}}–{{b2}} and the first–fifth Plans; the development approach covers {{b3}}–{{b4}} and the sixth–seventh Plans; empowerment covers {{b5}}–{{b6}} in the slide.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1951",
+        "1979",
+        "1980",
+        "1990",
+        "1992",
+        "2012"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1951",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1979",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "1980",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "1990",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b5",
+        "answer": "1992",
+        "accepted_answers": [],
+        "label": "Blank 5",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b6",
+        "answer": "2012",
+        "accepted_answers": [],
+        "label": "Blank 6",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q073",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u017"
+    ],
+    "source_pages": [
+      18
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "From welfare to agency"
+    ],
+    "quick_recall": true,
+    "prompt": "The Central Social Welfare Board was set up in {{b1}}; CSWI’s Towards Equality Report appeared in {{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1953",
+        "1974"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1953",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1974",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q074",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u017"
+    ],
+    "source_pages": [
+      18
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "From welfare to agency"
+    ],
+    "quick_recall": false,
+    "prompt": "Which committee produced Towards Equality, and what development-era schemes are named?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Committee on Status of Women in India (CSWI) → Towards Equality",
+        "STEP → Support to Training and Employment",
+        "AGP → Awareness Generation Programme for rural and poor women"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q075",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u017"
+    ],
+    "source_pages": [
+      18
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "From welfare to agency"
+    ],
+    "quick_recall": false,
+    "prompt": "What welfare-era services and later planning emphasis are recalled in the material?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Education/socioeconomic programmes",
+        "Working girls’ hostels and Short Stay Homes",
+        "Twelfth Plan onwards: gender equity, women’s agency and empowerment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q172",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u017"
+    ],
+    "source_pages": [
+      18
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "From welfare to agency"
+    ],
+    "quick_recall": true,
+    "prompt": "Towards Equality (1974) is associated with the {{b1}} committee.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Committee on Status of Women in India"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "Committee on Status of Women in India",
+        "accepted_answers": [
+          "CSWI"
+        ],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q076",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "Which values in the Preamble frame women’s constitutional safeguards?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Equality of status and opportunity",
+        "Dignity"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q077",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The constitutional provision for equality to all is Article {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "14"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "14",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q078",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The constitutional provision for non-discrimination by the State on gender grounds is Article {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "15(1)"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "15(1)",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q079",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The constitutional provision for affirmative action in favour of women is Article {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "15(3)"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "15(3)",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q080",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The constitutional provision for equal opportunity for all is Article {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "16"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "16",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q081",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The constitutional provision for adequate means of livelihood equally for men and women is Article {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "39(a)"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "39(a)",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q082",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The constitutional provision for equal pay for equal work is Article {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "39(d)"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "39(d)",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q083",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The constitutional provision for just and humane work conditions and maternity relief is Article {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "42"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "42",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q084",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The constitutional provision for renouncing practices derogatory to women’s dignity is Article {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "51(A)(e)"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "51(A)(e)",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q085",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "Reservation of Panchayat seats and chairpersons is mapped to Articles {{b1}} and {{b2}}; Municipalities to {{b3}} and {{b4}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "243D(3)",
+        "243D(4)",
+        "243T(3)",
+        "243T(4)"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "243D(3)",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      },
+      {
+        "id": "b2",
+        "answer": "243D(4)",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      },
+      {
+        "id": "b3",
+        "answer": "243T(3)",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "text"
+      },
+      {
+        "id": "b4",
+        "answer": "243T(4)",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q086",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u018"
+    ],
+    "source_pages": [
+      19
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Constitutional safeguards"
+    ],
+    "quick_recall": false,
+    "prompt": "How do non-discrimination and affirmative action complement each other in the safeguards table?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Non-discrimination → equal treatment",
+        "Affirmative action → targeted support for women",
+        "Both advance substantive access and opportunity"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q087",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u019"
+    ],
+    "source_pages": [
+      20
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "BNS, family courts and interfaith marriage"
+    ],
+    "quick_recall": true,
+    "prompt": "The chapter maps punishment for rape to BNS section(s) {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "64"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "64",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q088",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u019"
+    ],
+    "source_pages": [
+      20
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "BNS, family courts and interfaith marriage"
+    ],
+    "quick_recall": true,
+    "prompt": "The chapter maps dowry death to BNS section(s) {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "80"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "80",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q089",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u019"
+    ],
+    "source_pages": [
+      20
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "BNS, family courts and interfaith marriage"
+    ],
+    "quick_recall": true,
+    "prompt": "The chapter maps cruelty by husband or relatives to BNS section(s) {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "85"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "85",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q090",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u019"
+    ],
+    "source_pages": [
+      20
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "BNS, family courts and interfaith marriage"
+    ],
+    "quick_recall": true,
+    "prompt": "The chapter maps voyeurism, stalking and insulting modesty (grouped) to BNS section(s) {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "77–79"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "77–79",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q091",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u019"
+    ],
+    "source_pages": [
+      20
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "BNS, family courts and interfaith marriage"
+    ],
+    "quick_recall": true,
+    "prompt": "What women-friendly role is assigned to family courts?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Conciliators → women-friendly court procedures"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q092",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u019"
+    ],
+    "source_pages": [
+      20
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "BNS, family courts and interfaith marriage"
+    ],
+    "quick_recall": true,
+    "prompt": "The slide labels the Family Courts Act with the year {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1954"
+      ]
+    },
+    "source_note": "Year reproduced exactly from the supplied source; not independently corrected.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1954",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q093",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u019"
+    ],
+    "source_pages": [
+      20
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "BNS, family courts and interfaith marriage"
+    ],
+    "quick_recall": false,
+    "prompt": "What property protection does the Special Marriage Act example illustrate?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Hindu woman marrying a Christian man retains rights to her family’s ancestral property under the amended Hindu Succession Act"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q094",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u020"
+    ],
+    "source_pages": [
+      21
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Marriage, succession, triple talaq and trafficking safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The Hindu Marriage Act is dated {{b1}}; the Hindu Succession Act {{b2}}, amended in {{b3}}; the Immoral Traffic Prevention Act {{b4}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1955",
+        "1956",
+        "2005",
+        "1956"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1955",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1956",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "2005",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "1956",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q095",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u020"
+    ],
+    "source_pages": [
+      21
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Marriage, succession, triple talaq and trafficking safeguards"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the marital protections attributed to the Hindu Marriage Act.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Same lifestyle as husband",
+        "Freedom from torture at in-laws’ home",
+        "Husband’s financial support for child if wife cannot earn"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q096",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u020"
+    ],
+    "source_pages": [
+      21
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Marriage, succession, triple talaq and trafficking safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "What rights of daughters are stated under the amended Hindu Succession Act?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Equal rights in ancestral property",
+        "Equal distribution of joint-family property on intestate death"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q097",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u020"
+    ],
+    "source_pages": [
+      21
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Marriage, succession, triple talaq and trafficking safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The chapter’s Muslim women protection law is dated {{b1}}; the reported fall in triple-talaq cases exceeds {{b2}}% within {{b3}} year.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2019",
+        "80",
+        "1"
+      ]
+    },
+    "source_note": "Source labels the law “Muslim Women (Protection of Rights and Divorce) Act”; decline attributed to Ministry of Minority Affairs.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2019",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "80",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "1",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q098",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u020"
+    ],
+    "source_pages": [
+      21
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Marriage, succession, triple talaq and trafficking safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "What forms of instant triple talaq does the chapter describe as void and illegal?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Spoken",
+        "Written",
+        "Electronic",
+        "Any other manner"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q099",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u020"
+    ],
+    "source_pages": [
+      21
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Marriage, succession, triple talaq and trafficking safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "The Shayara Bano discussion cites Articles {{b1}}, {{b2}} and {{b3}} in holding instant triple talaq unconstitutional.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "14",
+        "15(1)",
+        "21"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "14",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "15(1)",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      },
+      {
+        "id": "b3",
+        "answer": "21",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q100",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u020"
+    ],
+    "source_pages": [
+      21
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Marriage, succession, triple talaq and trafficking safeguards"
+    ],
+    "quick_recall": true,
+    "prompt": "What is the purpose of the Immoral Traffic Prevention Act as given here?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Combat trafficking and commercial sexual exploitation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q101",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u021"
+    ],
+    "source_pages": [
+      22
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Maternity and dowry"
+    ],
+    "quick_recall": true,
+    "prompt": "The Maternity Benefit Act is dated {{b1}}; the {{b2}} amendment provides up to {{b3}} weeks, subject to conditions.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1961",
+        "2017",
+        "26"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1961",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2017",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "26",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q102",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u021"
+    ],
+    "source_pages": [
+      22
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Maternity and dowry"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the workplaces and illness provision mentioned under maternity benefits.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Factories, mines, plantations and shops",
+        "Leave extension for illness due to pregnancy/delivery"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q103",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u021"
+    ],
+    "source_pages": [
+      22
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Maternity and dowry"
+    ],
+    "quick_recall": true,
+    "prompt": "The Dowry Prohibition Act is dated {{b1}} and the slide states imprisonment up to {{b2}} years.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1961",
+        "5"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1961",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "5",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q104",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u021"
+    ],
+    "source_pages": [
+      22
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Maternity and dowry"
+    ],
+    "quick_recall": true,
+    "prompt": "What local implementation mechanism is named for dowry prohibition?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "District-level dowry prohibition officers"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q105",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u021"
+    ],
+    "source_pages": [
+      22
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Maternity and dowry"
+    ],
+    "quick_recall": true,
+    "prompt": "The Telangana Kalyana Lakshmi/Shaadi Mubarak example gives ₹{{b1}} after age {{b2}}; the Sumangali example is located in Tamil Nadu in the {{b3}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1,00,116",
+        "18",
+        "90s"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1,00,116",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "18",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "90s",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q106",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u021"
+    ],
+    "source_pages": [
+      22
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Maternity and dowry"
+    ],
+    "quick_recall": false,
+    "prompt": "Why are the Telangana marriage assistance and Sumangali examples criticised?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Marriage assistance → criticism of indirectly promoting dowry",
+        "Sumangali textile-mill work to save dowry → dowry + bonded/child labour double burden"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q107",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u022"
+    ],
+    "source_pages": [
+      23
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "MTP thresholds and categories"
+    ],
+    "quick_recall": true,
+    "prompt": "The MTP Act is dated {{b1}}; up to {{b2}} weeks one RMP’s opinion is stated, while {{b3}}–{{b4}} weeks require two RMPs for specified categories.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1971",
+        "20",
+        "20",
+        "24"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1971",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "20",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "20",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "24",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q108",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u022"
+    ],
+    "source_pages": [
+      23
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "MTP thresholds and categories"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the specified categories for the intermediate MTP window in the slide.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Rape/incest survivors and minors",
+        "Marital-status change: widowhood/divorce",
+        "Physical disability or mental illness",
+        "Foetal abnormality cases",
+        "Humanitarian settings, disasters or emergencies"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q109",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u022"
+    ],
+    "source_pages": [
+      23
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "MTP thresholds and categories"
+    ],
+    "quick_recall": true,
+    "prompt": "Beyond {{b1}} weeks, the slide allows termination for substantial foetal abnormalities on the opinion of a {{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "24",
+        "Medical Board"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "24",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "Medical Board",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q110",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u022"
+    ],
+    "source_pages": [
+      23
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "MTP thresholds and categories"
+    ],
+    "quick_recall": false,
+    "prompt": "How does the decision-making authority change across the MTP windows described here?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Earlier window → one RMP",
+        "Intermediate specified categories → two RMPs",
+        "Beyond threshold, substantial foetal abnormality → state/institution Medical Board"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q111",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u023"
+    ],
+    "source_pages": [
+      24
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Child protection and marriage-age debate"
+    ],
+    "quick_recall": true,
+    "prompt": "POCSO is dated {{b1}} and covers children below {{b2}} years.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2012",
+        "18"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2012",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "18",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q112",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u023"
+    ],
+    "source_pages": [
+      24
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Child protection and marriage-age debate"
+    ],
+    "quick_recall": true,
+    "prompt": "The slide labels the Prohibition of Child Marriage Act as {{b1}} and gives legal marriage ages of {{b2}} for girls and {{b3}} for boys.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2016",
+        "18",
+        "21"
+      ]
+    },
+    "source_note": "The Act year is reproduced from this slide, not independently corrected.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2016",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "18",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "21",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q113",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u023"
+    ],
+    "source_pages": [
+      24
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Child protection and marriage-age debate"
+    ],
+    "quick_recall": false,
+    "prompt": "What implementation and support measures accompany child-marriage prohibition?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "District child marriage prohibition officers",
+        "Support and rehabilitation",
+        "Awareness and education"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q114",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u023"
+    ],
+    "source_pages": [
+      24
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Child protection and marriage-age debate"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the pros and concerns about raising girls’ marriage age stated in the slide.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Pros: empowerment; better maternal/infant health",
+        "Concerns: teenage pregnancy → unsafe abortions; longer perceived burden → further skewed sex ratio"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q115",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u024"
+    ],
+    "source_pages": [
+      25
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Workplace harassment and sex selection"
+    ],
+    "quick_recall": true,
+    "prompt": "The workplace sexual-harassment prevention law is dated {{b1}}; the PCPNDT Act {{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2013",
+        "1994"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2013",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1994",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q116",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u024"
+    ],
+    "source_pages": [
+      25
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Workplace harassment and sex selection"
+    ],
+    "quick_recall": true,
+    "prompt": "What workplace coverage does the sexual-harassment law have in this material?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Public and private",
+        "Organised and unorganised",
+        "All workplaces"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q117",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u024"
+    ],
+    "source_pages": [
+      25
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Workplace harassment and sex selection"
+    ],
+    "quick_recall": true,
+    "prompt": "What two prohibitions are emphasised under PCPNDT?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Sex selection",
+        "Misuse of diagnostic techniques"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q118",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u025"
+    ],
+    "source_pages": [
+      26
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Domestic violence and socialisation"
+    ],
+    "quick_recall": true,
+    "prompt": "The Domestic Violence Act discussed in the material is dated {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2005"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2005",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q119",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u025"
+    ],
+    "source_pages": [
+      26
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "list",
+    "importance": "high",
+    "tags": [
+      "Domestic violence and socialisation"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the social, economic and psychological causes of domestic violence.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Patriarchy and socialisation",
+        "Unemployment",
+        "Low self-esteem, jealousy, anger"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q120",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u025"
+    ],
+    "source_pages": [
+      26
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Domestic violence and socialisation"
+    ],
+    "quick_recall": false,
+    "prompt": "How can domestic violence reproduce itself through socialisation?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Children observe violence → learn to regard it as normal → normalisation of violent behaviour"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q121",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u025"
+    ],
+    "source_pages": [
+      26
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "keywords",
+    "importance": "high",
+    "tags": [
+      "Domestic violence and socialisation"
+    ],
+    "quick_recall": true,
+    "prompt": "What criticisms of domestic-violence enforcement are mentioned?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "False cases",
+        "Subjective interpretation of verbal abuse and mental harassment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q122",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u026"
+    ],
+    "source_pages": [
+      27
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Adultery and dignity"
+    ],
+    "quick_recall": true,
+    "prompt": "The repealed adultery provision is IPC Section {{b1}}; the dignity argument is linked to Article {{b2}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "497",
+        "21"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "497",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "21",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q123",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u026"
+    ],
+    "source_pages": [
+      27
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Adultery and dignity"
+    ],
+    "quick_recall": false,
+    "prompt": "Why does the chapter link repeal of the adultery provision to women’s dignity, and what legal relevance remains?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Violation of women’s dignity/right to life",
+        "Adultery remains a ground for divorce or cases of abetment to suicide, as described in the slide"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q124",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u027"
+    ],
+    "source_pages": [
+      28
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Gender budgeting"
+    ],
+    "quick_recall": true,
+    "prompt": "Define gender budgeting and identify its nodal ministry.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Gender lens applied to public spending",
+        "Ministry of Women and Child Development"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q125",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u027"
+    ],
+    "source_pages": [
+      28
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Gender budgeting"
+    ],
+    "quick_recall": true,
+    "prompt": "The Union Gender Budget Statement began in {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "2005–06"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "2005–06",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q126",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u027"
+    ],
+    "source_pages": [
+      28
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Gender budgeting"
+    ],
+    "quick_recall": true,
+    "prompt": "Gender Budget Part A: {{b1}}% for women/girls; Part B: {{b2}}–{{b3}}%; Part C: below {{b4}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "100",
+        "30",
+        "99",
+        "30"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "100",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "30",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "99",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "30",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q127",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u027"
+    ],
+    "source_pages": [
+      28
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Gender budgeting"
+    ],
+    "quick_recall": true,
+    "prompt": "In 2026–27 Budget Estimates, the Gender Budget is ₹{{b1}} lakh crore, or {{b2}}% of the Union Budget.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "5.01",
+        "9.37"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "5.01",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "9.37",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q128",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u027"
+    ],
+    "source_pages": [
+      28
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Gender budgeting"
+    ],
+    "quick_recall": false,
+    "prompt": "How does gender budgeting connect public finance with empowerment?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Gender lens → identify spending for women/girls → resource allocation supports enabling conditions for empowerment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q171",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u027"
+    ],
+    "source_pages": [
+      28
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Gender budgeting"
+    ],
+    "quick_recall": true,
+    "prompt": "The figure ₹5.01 lakh crore (2026–27 Budget Estimates) refers to the Union {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Gender Budget"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "Gender Budget",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "text"
+      }
+    ]
+  },
+  {
+    "id": "women-q129",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u028"
+    ],
+    "source_pages": [
+      29
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "National Commission for Women"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall NCW’s functions and civil-court-type powers.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Review legislation",
+        "Investigate women’s safeguards",
+        "Gender training programmes",
+        "Suo motu action",
+        "Summoning, requisitioning records, evidence and affidavits"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q130",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u028"
+    ],
+    "source_pages": [
+      29
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "National Commission for Women"
+    ],
+    "quick_recall": false,
+    "prompt": "Why can NCW’s influence remain limited despite its investigative powers?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Limited consultation in policy",
+        "Members insufficiently informed of changing trends",
+        "Restricted practical autonomy/selectivity",
+        "Non-binding recommendations",
+        "Financial constraints"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q131",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u029"
+    ],
+    "source_pages": [
+      30,
+      31,
+      32
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Mission Shakti architecture"
+    ],
+    "quick_recall": true,
+    "prompt": "Distinguish Mission Shakti’s Sambal and Samarthya verticals.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Mission Shakti: safety and empowerment across life stages",
+        "Sambal: safety, protection, immediate support",
+        "Samarthya: care, services, empowerment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q132",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u029"
+    ],
+    "source_pages": [
+      30,
+      31,
+      32
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Mission Shakti architecture"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct Sambal’s interventions and their roles.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "One Stop Centres → medical/legal/police assistance, counselling, temporary shelter",
+        "Women Helpline → support/referral",
+        "Beti Bachao Beti Padhao → awareness/action for girl child",
+        "Nari Adalat → community-level collective dispute resolution",
+        "Nirbhaya Fund → finances centres and helpline"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q133",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u029"
+    ],
+    "source_pages": [
+      30,
+      31,
+      32
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Mission Shakti architecture"
+    ],
+    "quick_recall": true,
+    "prompt": "Women Helpline is {{b1}} and offers free support for {{b2}} hours a day.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "181",
+        "24"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "181",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "24",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q134",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u029"
+    ],
+    "source_pages": [
+      30,
+      31,
+      32
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Mission Shakti architecture"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct Samarthya’s services and their beneficiaries.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Shakti Sadan → shelter/rehabilitation for women in distress",
+        "Sakhi Niwas → working women’s safe accommodation",
+        "Palna → crèche care",
+        "PMMVY → maternity benefit for eligible pregnant/lactating women",
+        "SANKALP/Hub for Empowerment of Women → access to schemes/services"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q135",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u029"
+    ],
+    "source_pages": [
+      30,
+      31,
+      32
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Mission Shakti architecture"
+    ],
+    "quick_recall": true,
+    "prompt": "Palna provides crèche care from {{b1}} months to {{b2}} years of age.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "6",
+        "6"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "6",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "6",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q136",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u029"
+    ],
+    "source_pages": [
+      30,
+      31,
+      32
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Mission Shakti architecture"
+    ],
+    "quick_recall": false,
+    "prompt": "Why are safety interventions and care services both necessary in the chapter’s empowerment framework?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Immediate protection addresses violence/distress",
+        "Shelter, childcare and maternity support address care constraints",
+        "Together support women across life stages"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q137",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u030"
+    ],
+    "source_pages": [
+      33,
+      34
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "PMMVY and maternal-support comparison"
+    ],
+    "quick_recall": true,
+    "prompt": "PMMVY 2.0: first living child receives ₹{{b1}} in {{b2}} instalments; a second child, if a girl, receives ₹{{b3}} once.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "5,000",
+        "2",
+        "6,000"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "5,000",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "2",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "6,000",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q138",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u030"
+    ],
+    "source_pages": [
+      33,
+      34
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "PMMVY and maternal-support comparison"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall PMMVY’s purpose, payment conditions and destination.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Partly compensate wage loss around childbirth",
+        "Antenatal checks",
+        "Birth registration",
+        "First immunisation cycle",
+        "Direct payment to woman’s account"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q139",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u030"
+    ],
+    "source_pages": [
+      33,
+      34
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "PMMVY and maternal-support comparison"
+    ],
+    "quick_recall": false,
+    "prompt": "Distinguish JSY, PMMVY and JSSK by purpose and type of benefit.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "JSY/Janani Suraksha Yojana → encourage institutional delivery; cash incentive",
+        "PMMVY/Pradhan Mantri Matru Vandana Yojana → rest/maternal care; maternity cash benefit",
+        "JSSK/Janani Shishu Suraksha Karyakaram → remove costs at public facilities; free healthcare/transport"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q140",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u030"
+    ],
+    "source_pages": [
+      33,
+      34
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "PMMVY and maternal-support comparison"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall JSSK’s beneficiaries and free services.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Pregnant women using public facilities and sick infants",
+        "Free delivery, medicines, tests, diet and transport",
+        "No cash payment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q141",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u030"
+    ],
+    "source_pages": [
+      33,
+      34
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "PMMVY and maternal-support comparison"
+    ],
+    "quick_recall": false,
+    "prompt": "How do eligibility, conditions and administration differ across JSY, PMMVY and JSSK?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "JSY: state-category rules; eligible-facility delivery; NHM; amount varies by state/rural–urban location",
+        "PMMVY: eligible pregnant/lactating women; care/registration/immunisation conditions; Mission Shakti–Samarthya",
+        "JSSK: public-facility users/sick infants; NHM; free services"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q142",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u030"
+    ],
+    "source_pages": [
+      33,
+      34
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "PMMVY and maternal-support comparison"
+    ],
+    "quick_recall": false,
+    "prompt": "Why are cash support and cost-free services complementary maternal-health interventions?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "JSY incentivises facility delivery",
+        "PMMVY partly offsets wage loss/rest costs",
+        "JSSK removes healthcare/transport costs",
+        "Different barriers addressed by different benefits"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q143",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u031"
+    ],
+    "source_pages": [
+      33
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Adolescent girls under POSHAN"
+    ],
+    "quick_recall": true,
+    "prompt": "The Scheme for Adolescent Girls under POSHAN 2.0 targets ages {{b1}}–{{b2}} years.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "14",
+        "18"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "14",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "18",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q144",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u031"
+    ],
+    "source_pages": [
+      33
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Adolescent girls under POSHAN"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the geography and services of the Scheme for Adolescent Girls.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Aspirational Districts and northeastern states",
+        "Supplementary nutrition and iron–folic acid",
+        "Health checks and nutrition education",
+        "Referrals and skills-related support"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q145",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u032"
+    ],
+    "source_pages": [
+      35
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Pre-independence organisations"
+    ],
+    "quick_recall": true,
+    "prompt": "The founding year stated for Women’s Indian Association is {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1917"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1917",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q146",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u032"
+    ],
+    "source_pages": [
+      35
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Pre-independence organisations"
+    ],
+    "quick_recall": true,
+    "prompt": "The founding year stated for National Council of Women in India is {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1923"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1923",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q147",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u032"
+    ],
+    "source_pages": [
+      35
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Pre-independence organisations"
+    ],
+    "quick_recall": true,
+    "prompt": "The founding year stated for All India Women’s Conference is {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1927"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1927",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q148",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u032"
+    ],
+    "source_pages": [
+      35
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Pre-independence organisations"
+    ],
+    "quick_recall": true,
+    "prompt": "The founding year stated for Satyashodhak Samaj is {{b1}}.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "1873"
+      ]
+    },
+    "source_note": "",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "1873",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q149",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u032"
+    ],
+    "source_pages": [
+      35
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Pre-independence organisations"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall WIA’s location, key figures and contribution.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Adyar",
+        "Margaret Cousins and Dorothy Jinarajadasa; Annie Besant first president",
+        "Women’s education, suffrage and political representation"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q150",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u032"
+    ],
+    "source_pages": [
+      35
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Pre-independence organisations"
+    ],
+    "quick_recall": false,
+    "prompt": "Distinguish NCWI and AIWC by figures and contribution.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "NCWI → Lady Meherbai Tata; regional councils; women’s/children’s welfare",
+        "AIWC → Margaret Cousins; education, later child-marriage/legal reform"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q151",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u032"
+    ],
+    "source_pages": [
+      35
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Pre-independence organisations"
+    ],
+    "quick_recall": true,
+    "prompt": "Which organisation founded in Pune challenged caste oppression and supported women’s education?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Satyashodhak Samaj → Jyotirao Phule → social equality and women’s education"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q152",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u033"
+    ],
+    "source_pages": [
+      36
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "SEWA and financial organisation"
+    ],
+    "quick_recall": false,
+    "prompt": "Who is associated with SEWA and Friends of Women’s World Banking, and who does SEWA mobilise?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Ela Bhatt, Gujarat",
+        "SEWA: informal-sector street vendors, domestic workers, agricultural labourers, artisans, self-employed women",
+        "Friends of Women’s World Banking: informal credit support and networks"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q153",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u033"
+    ],
+    "source_pages": [
+      36
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "SEWA and financial organisation"
+    ],
+    "quick_recall": false,
+    "prompt": "How does SEWA link mobilisation to economic empowerment?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Organise informal workers → skills, credit/savings, income-generating activity support → stronger livelihoods",
+        "Policy advocacy → supportive regulations"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q154",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u034"
+    ],
+    "source_pages": [
+      37
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Post-independence organisations and intersectionality"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall AIDWA’s affiliation, concerns and campaign example.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "CPI(M)",
+        "Women’s rights, education, employment, casteism, communalism, child rights, disaster aid",
+        "Campaign against HLL’s Fair and Lovely"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q155",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u034"
+    ],
+    "source_pages": [
+      37
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "Post-independence organisations and intersectionality"
+    ],
+    "quick_recall": false,
+    "prompt": "What distinguishes YWCA India and All India Dalit Mahila Adhikar Manch?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "YWCA → marginalised women regardless of age, caste or religion",
+        "Dalit Mahila Adhikar Manch → intersection of patriarchy, caste, culture, class and caste oppression"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q156",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u034"
+    ],
+    "source_pages": [
+      37
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Post-independence organisations and intersectionality"
+    ],
+    "quick_recall": true,
+    "prompt": "The YWCA slide describes {{b1}} years of operation across the world.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "125"
+      ]
+    },
+    "source_note": "Undated duration retained as a source statement, not a live age.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "125",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q157",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u034"
+    ],
+    "source_pages": [
+      37
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "relationship",
+    "importance": "high",
+    "tags": [
+      "Post-independence organisations and intersectionality"
+    ],
+    "quick_recall": false,
+    "prompt": "How does Dalit women’s organisation connect with the third-wave feminist concern?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Patriarchy + caste + class/culture → overlapping oppression",
+        "Intersectionality and gender justice → attention to Dalit/marginalised rights"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q158",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u035"
+    ],
+    "source_pages": [
+      38
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "International women’s institutions"
+    ],
+    "quick_recall": true,
+    "prompt": "Recall UN Women’s role.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Help intergovernmental bodies frame global standards",
+        "Support member states’ implementation",
+        "Global cooperation and coordination in women’s upliftment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q159",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u035"
+    ],
+    "source_pages": [
+      38
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "institution",
+    "importance": "high",
+    "tags": [
+      "International women’s institutions"
+    ],
+    "quick_recall": true,
+    "prompt": "What convention frames IWRAW’s work, and what does it address?",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "CEDAW → Convention on the Elimination of All Forms of Discrimination against Women",
+        "International human-rights treaty",
+        "IWRAW works on women’s human rights under it"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q160",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u036"
+    ],
+    "source_pages": [
+      39
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "concept",
+    "importance": "high",
+    "tags": [
+      "Permanent commission in armed forces"
+    ],
+    "quick_recall": true,
+    "prompt": "What does permanent commission mean in the chapter?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "A career in the armed forces until retirement"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q161",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u036"
+    ],
+    "source_pages": [
+      39
+    ],
+    "scope": "unit",
+    "format": "fill_blank",
+    "category": "data",
+    "importance": "high",
+    "tags": [
+      "Permanent commission in armed forces"
+    ],
+    "quick_recall": true,
+    "prompt": "The chapter gives women’s shares in Army, Air Force and Navy as {{b1}}%, {{b2}}% and {{b3}}%; comparison countries exceed {{b4}}%.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "0.5",
+        "1",
+        "6.5",
+        "10"
+      ]
+    },
+    "source_note": "No reference year is given on this slide.",
+    "blanks": [
+      {
+        "id": "b1",
+        "answer": "0.5",
+        "accepted_answers": [],
+        "label": "Blank 1",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b2",
+        "answer": "1",
+        "accepted_answers": [],
+        "label": "Blank 2",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b3",
+        "answer": "6.5",
+        "accepted_answers": [],
+        "label": "Blank 3",
+        "input_mode": "decimal"
+      },
+      {
+        "id": "b4",
+        "answer": "10",
+        "accepted_answers": [],
+        "label": "Blank 4",
+        "input_mode": "decimal"
+      }
+    ]
+  },
+  {
+    "id": "women-q162",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u036"
+    ],
+    "source_pages": [
+      39
+    ],
+    "scope": "unit",
+    "format": "recall",
+    "category": "reasoning",
+    "importance": "high",
+    "tags": [
+      "Permanent commission in armed forces"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the arguments supporting women’s permanent commission and the concerns listed.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Support: equality; physical-criteria relaxation already exists for men from hilly regions and in IPS",
+        "Concerns: low acceptance of female bosses, infrastructure difficulties, vulnerability to harassment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q163",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u037"
+    ],
+    "source_pages": [
+      1,
+      2,
+      8,
+      15,
+      17,
+      18,
+      19,
+      29,
+      30,
+      35,
+      39
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Women — chapter reconstruction"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the women chapter in 10–15 keywords.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Life-cycle discrimination",
+        "Gender gap",
+        "Historical reform",
+        "Patriarchy",
+        "Caste/class",
+        "Unpaid care",
+        "Agency",
+        "Five pillars",
+        "Constitutional safeguards",
+        "Legal protection",
+        "Gender budgeting",
+        "NCW",
+        "Mission Shakti",
+        "Collective organisation",
+        "Permanent commission"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q164",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u037"
+    ],
+    "source_pages": [
+      1,
+      2,
+      8,
+      15,
+      17,
+      18,
+      19,
+      29,
+      30,
+      35,
+      39
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Women — chapter reconstruction"
+    ],
+    "quick_recall": false,
+    "prompt": "Reproduce the chapter’s main explanation of persistent inequality and the route to empowerment.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Patriarchy/caste/family norms → restricted choices, resources and work → unequal status",
+        "Rights + implementation + education/health + economic resources + collective organisation → agency and empowerment"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q165",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u038"
+    ],
+    "source_pages": [
+      6,
+      7,
+      15,
+      16,
+      17,
+      22,
+      32,
+      33
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Women — care, work and agency"
+    ],
+    "quick_recall": false,
+    "prompt": "Connect unpaid care, marriage, maternity support and economic empowerment.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Unpaid care/pregnancy-child rearing → constrained paid work",
+        "Maternity benefits + crèches + safe accommodation/work + skills/equal pay → enabling conditions",
+        "Economic participation and reproductive authority strengthen agency"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q166",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u038"
+    ],
+    "source_pages": [
+      6,
+      7,
+      15,
+      16,
+      17,
+      22,
+      32,
+      33
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Women — care, work and agency"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall the main data anchors for women’s work, health, representation and education, with their sources.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "PLFS 2025: female LFPR 40.0%, male 79.1%; women’s earnings 76% of men’s",
+        "2024 domestic work: 289 vs 88 minutes; Lok Sabha 74/543",
+        "NFHS-5: women’s anaemia 57%; SRS 2022–24 MMR 87",
+        "NFHS-6: institutional births 90.6%, early marriage 20.1%",
+        "AISHE 2023–24 higher education: 49.7% women"
+      ]
+    },
+    "source_note": "Integrated context reconstruction; exact-value practice is provided in Data Drill."
+  },
+  {
+    "id": "women-q167",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u039"
+    ],
+    "source_pages": [
+      9,
+      10,
+      12,
+      13,
+      14,
+      35,
+      36,
+      37,
+      38
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Women — movements and organisation"
+    ],
+    "quick_recall": false,
+    "prompt": "Trace the changing logic of women’s collective action from reform to intersectionality.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Social reform: education, sati, widow remarriage",
+        "Nationalism: political/labour participation → equality/vote",
+        "Grassroots: forests, livelihoods, rape and dowry",
+        "Feminist waves: rights → reproductive justice → intersectionality → online harassment",
+        "Organisations: informal work, credit, Dalit rights and global standards"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q168",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u039"
+    ],
+    "source_pages": [
+      9,
+      10,
+      12,
+      13,
+      14,
+      35,
+      36,
+      37,
+      38
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Women — movements and organisation"
+    ],
+    "quick_recall": false,
+    "prompt": "Recall high-value examples and match each to the issue it illustrates.",
+    "expected_answer": {
+      "style": "chain",
+      "items": [
+        "Gargi/Maitreyi → early participation",
+        "Ramabai/Sharda Sadan → destitute widows",
+        "Gaura Devi/Chipko → collective livelihoods",
+        "Mathura → anti-rape mobilisation",
+        "Sumangali → dowry plus bonded/child labour",
+        "Ela Bhatt/SEWA → informal-worker organisation",
+        "Dalit Mahila Adhikar Manch → intersecting oppression"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q169",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u040"
+    ],
+    "source_pages": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      23,
+      25,
+      28,
+      29,
+      30,
+      34
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Women — safeguards and contradictions"
+    ],
+    "quick_recall": false,
+    "prompt": "Reconstruct the institutional architecture of women’s empowerment.",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Constitution: equality, non-discrimination, affirmative action, work/maternity, dignity, local representation",
+        "Laws: violence, marriage/property, maternity/reproduction, child protection, workplace and sex selection",
+        "CSWI/Towards Equality; NCW",
+        "Gender budgeting",
+        "Mission Shakti: Sambal/Samarthya",
+        "JSY–PMMVY–JSSK"
+      ]
+    },
+    "source_note": ""
+  },
+  {
+    "id": "women-q170",
+    "revision": 1,
+    "chapter_id": "women",
+    "unit_ids": [
+      "women-u040"
+    ],
+    "source_pages": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      23,
+      25,
+      28,
+      29,
+      30,
+      34
+    ],
+    "scope": "chapter",
+    "format": "recall",
+    "category": "synthesis",
+    "importance": "high",
+    "tags": [
+      "Women — safeguards and contradictions"
+    ],
+    "quick_recall": false,
+    "prompt": "What contradictions recur across the women chapter?",
+    "expected_answer": {
+      "style": "bullets",
+      "items": [
+        "Formal rights versus weak implementation",
+        "Education parity versus employment/leadership gaps",
+        "Protection versus limited practical autonomy",
+        "Marriage assistance versus dowry reinforcement",
+        "Permanent-commission equality versus institutional/social barriers"
+      ]
+    },
+    "source_note": ""
+  }
+]

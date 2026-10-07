@@ -1,0 +1,1552 @@
+[
+  {
+    "page": 1,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u001",
+      "women-u037"
+    ],
+    "question_ids": [
+      "women-q001",
+      "women-q163",
+      "women-q164"
+    ],
+    "notes": "Agenda used for chapter architecture; decorative photo not tested."
+  },
+  {
+    "page": 2,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u002",
+      "women-u037"
+    ],
+    "question_ids": [
+      "women-q002",
+      "women-q003",
+      "women-q004",
+      "women-q163",
+      "women-q164"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 3,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u003"
+    ],
+    "question_ids": [
+      "women-q005",
+      "women-q006",
+      "women-q007"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 4,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u004"
+    ],
+    "question_ids": [
+      "women-q008",
+      "women-q009",
+      "women-q010",
+      "women-q011",
+      "women-q012",
+      "women-q013",
+      "women-q014",
+      "women-q015",
+      "women-q016"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 5,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u004"
+    ],
+    "question_ids": [
+      "women-q008",
+      "women-q009",
+      "women-q010",
+      "women-q011",
+      "women-q012",
+      "women-q013",
+      "women-q014",
+      "women-q015",
+      "women-q016"
+    ],
+    "notes": "Embedded score/rank table and radar inspected; extracted text alone misses them."
+  },
+  {
+    "page": 6,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u005",
+      "women-u006",
+      "women-u038"
+    ],
+    "question_ids": [
+      "women-q017",
+      "women-q018",
+      "women-q019",
+      "women-q020",
+      "women-q021",
+      "women-q022",
+      "women-q023",
+      "women-q024",
+      "women-q025",
+      "women-q165",
+      "women-q166"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 7,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u007",
+      "women-u038"
+    ],
+    "question_ids": [
+      "women-q026",
+      "women-q027",
+      "women-q028",
+      "women-q029",
+      "women-q030",
+      "women-q031",
+      "women-q165",
+      "women-q166"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 8,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u008",
+      "women-u037"
+    ],
+    "question_ids": [
+      "women-q032",
+      "women-q033",
+      "women-q034",
+      "women-q163",
+      "women-q164"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 9,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u009",
+      "women-u039"
+    ],
+    "question_ids": [
+      "women-q035",
+      "women-q036",
+      "women-q037",
+      "women-q038",
+      "women-q039",
+      "women-q040",
+      "women-q167",
+      "women-q168"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 10,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u010",
+      "women-u039"
+    ],
+    "question_ids": [
+      "women-q041",
+      "women-q042",
+      "women-q043",
+      "women-q044",
+      "women-q045",
+      "women-q046",
+      "women-q167",
+      "women-q168"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 11,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u011"
+    ],
+    "question_ids": [
+      "women-q047",
+      "women-q048",
+      "women-q049",
+      "women-q050"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 12,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u012",
+      "women-u039"
+    ],
+    "question_ids": [
+      "women-q051",
+      "women-q052",
+      "women-q053",
+      "women-q054",
+      "women-q167",
+      "women-q168"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 13,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u013",
+      "women-u039"
+    ],
+    "question_ids": [
+      "women-q055",
+      "women-q056",
+      "women-q057",
+      "women-q167",
+      "women-q168"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 14,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u014",
+      "women-u039"
+    ],
+    "question_ids": [
+      "women-q058",
+      "women-q059",
+      "women-q060",
+      "women-q167",
+      "women-q168"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 15,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u005",
+      "women-u015",
+      "women-u037",
+      "women-u038",
+      "population-u030"
+    ],
+    "question_ids": [
+      "women-q017",
+      "women-q018",
+      "women-q019",
+      "women-q020",
+      "women-q061",
+      "women-q062",
+      "women-q063",
+      "women-q064",
+      "women-q065",
+      "women-q066",
+      "women-q163",
+      "women-q164",
+      "women-q165",
+      "women-q166",
+      "population-q154",
+      "population-q155"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 16,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u015",
+      "women-u038"
+    ],
+    "question_ids": [
+      "women-q061",
+      "women-q062",
+      "women-q063",
+      "women-q064",
+      "women-q065",
+      "women-q066",
+      "women-q165",
+      "women-q166"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 17,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u016",
+      "women-u037",
+      "women-u038",
+      "women-u040",
+      "population-u030"
+    ],
+    "question_ids": [
+      "women-q067",
+      "women-q068",
+      "women-q069",
+      "women-q070",
+      "women-q163",
+      "women-q164",
+      "women-q165",
+      "women-q166",
+      "women-q169",
+      "women-q170",
+      "population-q154",
+      "population-q155"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 18,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u017",
+      "women-u037",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q071",
+      "women-q072",
+      "women-q073",
+      "women-q074",
+      "women-q075",
+      "women-q163",
+      "women-q164",
+      "women-q169",
+      "women-q170",
+      "women-q172"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 19,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u018",
+      "women-u037",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q076",
+      "women-q077",
+      "women-q078",
+      "women-q079",
+      "women-q080",
+      "women-q081",
+      "women-q082",
+      "women-q083",
+      "women-q084",
+      "women-q085",
+      "women-q086",
+      "women-q163",
+      "women-q164",
+      "women-q169",
+      "women-q170"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 20,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u019",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q087",
+      "women-q088",
+      "women-q089",
+      "women-q090",
+      "women-q091",
+      "women-q092",
+      "women-q093",
+      "women-q169",
+      "women-q170"
+    ],
+    "notes": "Act year retained as source wording."
+  },
+  {
+    "page": 21,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u020",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q094",
+      "women-q095",
+      "women-q096",
+      "women-q097",
+      "women-q098",
+      "women-q099",
+      "women-q100",
+      "women-q169",
+      "women-q170"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 22,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u021",
+      "women-u038"
+    ],
+    "question_ids": [
+      "women-q101",
+      "women-q102",
+      "women-q103",
+      "women-q104",
+      "women-q105",
+      "women-q106",
+      "women-q165",
+      "women-q166"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 23,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u022",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q107",
+      "women-q108",
+      "women-q109",
+      "women-q110",
+      "women-q169",
+      "women-q170"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 24,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u023"
+    ],
+    "question_ids": [
+      "women-q111",
+      "women-q112",
+      "women-q113",
+      "women-q114"
+    ],
+    "notes": "Act year retained as source wording."
+  },
+  {
+    "page": 25,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u024",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q115",
+      "women-q116",
+      "women-q117",
+      "women-q169",
+      "women-q170"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 26,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u025"
+    ],
+    "question_ids": [
+      "women-q118",
+      "women-q119",
+      "women-q120",
+      "women-q121"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 27,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u026"
+    ],
+    "question_ids": [
+      "women-q122",
+      "women-q123"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 28,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u027",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q124",
+      "women-q125",
+      "women-q126",
+      "women-q127",
+      "women-q128",
+      "women-q169",
+      "women-q170",
+      "women-q171"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 29,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u028",
+      "women-u037",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q129",
+      "women-q130",
+      "women-q163",
+      "women-q164",
+      "women-q169",
+      "women-q170"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 30,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u029",
+      "women-u037",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q131",
+      "women-q132",
+      "women-q133",
+      "women-q134",
+      "women-q135",
+      "women-q136",
+      "women-q163",
+      "women-q164",
+      "women-q169",
+      "women-q170"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 31,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u029"
+    ],
+    "question_ids": [
+      "women-q131",
+      "women-q132",
+      "women-q133",
+      "women-q134",
+      "women-q135",
+      "women-q136"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 32,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u029",
+      "women-u038"
+    ],
+    "question_ids": [
+      "women-q131",
+      "women-q132",
+      "women-q133",
+      "women-q134",
+      "women-q135",
+      "women-q136",
+      "women-q165",
+      "women-q166"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 33,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u030",
+      "women-u031",
+      "women-u038"
+    ],
+    "question_ids": [
+      "women-q137",
+      "women-q138",
+      "women-q139",
+      "women-q140",
+      "women-q141",
+      "women-q142",
+      "women-q143",
+      "women-q144",
+      "women-q165",
+      "women-q166"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 34,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u030",
+      "women-u040"
+    ],
+    "question_ids": [
+      "women-q137",
+      "women-q138",
+      "women-q139",
+      "women-q140",
+      "women-q141",
+      "women-q142",
+      "women-q169",
+      "women-q170"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 35,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u032",
+      "women-u037",
+      "women-u039"
+    ],
+    "question_ids": [
+      "women-q145",
+      "women-q146",
+      "women-q147",
+      "women-q148",
+      "women-q149",
+      "women-q150",
+      "women-q151",
+      "women-q163",
+      "women-q164",
+      "women-q167",
+      "women-q168"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 36,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u033",
+      "women-u039"
+    ],
+    "question_ids": [
+      "women-q152",
+      "women-q153",
+      "women-q167",
+      "women-q168"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 37,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u034",
+      "women-u039"
+    ],
+    "question_ids": [
+      "women-q154",
+      "women-q155",
+      "women-q156",
+      "women-q157",
+      "women-q167",
+      "women-q168"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 38,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u035",
+      "women-u039"
+    ],
+    "question_ids": [
+      "women-q158",
+      "women-q159",
+      "women-q167",
+      "women-q168"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 39,
+    "chapter_id": "women",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "women-u036",
+      "women-u037"
+    ],
+    "question_ids": [
+      "women-q160",
+      "women-q161",
+      "women-q162",
+      "women-q163",
+      "women-q164"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 40,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u001",
+      "population-u028"
+    ],
+    "question_ids": [
+      "population-q001",
+      "population-q150",
+      "population-q151"
+    ],
+    "notes": "Agenda used for architecture; decorative photo not tested."
+  },
+  {
+    "page": 41,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u002",
+      "population-u029"
+    ],
+    "question_ids": [
+      "population-q002",
+      "population-q003",
+      "population-q004",
+      "population-q005",
+      "population-q152",
+      "population-q153"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 42,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u003",
+      "population-u028"
+    ],
+    "question_ids": [
+      "population-q006",
+      "population-q007",
+      "population-q008",
+      "population-q009",
+      "population-q150",
+      "population-q151"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 43,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u004",
+      "population-u005",
+      "population-u029"
+    ],
+    "question_ids": [
+      "population-q010",
+      "population-q011",
+      "population-q012",
+      "population-q013",
+      "population-q014",
+      "population-q015",
+      "population-q016",
+      "population-q017",
+      "population-q018",
+      "population-q019",
+      "population-q020",
+      "population-q021",
+      "population-q022",
+      "population-q152",
+      "population-q153",
+      "population-q160"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 44,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u005"
+    ],
+    "question_ids": [
+      "population-q021",
+      "population-q022"
+    ],
+    "notes": "Image-only nutrition definitions inspected."
+  },
+  {
+    "page": 45,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u006",
+      "population-u028"
+    ],
+    "question_ids": [
+      "population-q023",
+      "population-q024",
+      "population-q025",
+      "population-q026",
+      "population-q150",
+      "population-q151"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 46,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u007",
+      "population-u028"
+    ],
+    "question_ids": [
+      "population-q027",
+      "population-q028",
+      "population-q029",
+      "population-q030",
+      "population-q031",
+      "population-q150",
+      "population-q151"
+    ],
+    "notes": "Image-only transition curves and age shapes inspected."
+  },
+  {
+    "page": 47,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u008",
+      "population-u028",
+      "population-u029",
+      "population-u030"
+    ],
+    "question_ids": [
+      "population-q032",
+      "population-q033",
+      "population-q034",
+      "population-q035",
+      "population-q036",
+      "population-q037",
+      "population-q150",
+      "population-q151",
+      "population-q152",
+      "population-q153",
+      "population-q154",
+      "population-q155"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 48,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u008",
+      "population-u029"
+    ],
+    "question_ids": [
+      "population-q032",
+      "population-q033",
+      "population-q034",
+      "population-q035",
+      "population-q036",
+      "population-q037",
+      "population-q152",
+      "population-q153"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 49,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u009",
+      "population-u029",
+      "population-u030"
+    ],
+    "question_ids": [
+      "population-q038",
+      "population-q039",
+      "population-q040",
+      "population-q152",
+      "population-q153",
+      "population-q154",
+      "population-q155"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 50,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u010",
+      "population-u029",
+      "population-u030"
+    ],
+    "question_ids": [
+      "population-q041",
+      "population-q042",
+      "population-q043",
+      "population-q152",
+      "population-q153",
+      "population-q154",
+      "population-q155"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 51,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u011",
+      "population-u028",
+      "population-u029",
+      "population-u030"
+    ],
+    "question_ids": [
+      "population-q044",
+      "population-q045",
+      "population-q046",
+      "population-q047",
+      "population-q048",
+      "population-q049",
+      "population-q050",
+      "population-q051",
+      "population-q052",
+      "population-q053",
+      "population-q150",
+      "population-q151",
+      "population-q152",
+      "population-q153",
+      "population-q154",
+      "population-q155"
+    ],
+    "notes": "Lancet-attributed chart and projection footnotes inspected."
+  },
+  {
+    "page": 52,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u012",
+      "population-u028",
+      "population-u029"
+    ],
+    "question_ids": [
+      "population-q054",
+      "population-q055",
+      "population-q056",
+      "population-q057",
+      "population-q058",
+      "population-q059",
+      "population-q060",
+      "population-q150",
+      "population-q151",
+      "population-q152",
+      "population-q153"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 53,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u013",
+      "population-u028",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q061",
+      "population-q062",
+      "population-q063",
+      "population-q064",
+      "population-q065",
+      "population-q066",
+      "population-q067",
+      "population-q150",
+      "population-q151",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "Chart caption and endpoint years differ; question note records this."
+  },
+  {
+    "page": 54,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u014",
+      "population-u028",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q068",
+      "population-q069",
+      "population-q070",
+      "population-q071",
+      "population-q072",
+      "population-q150",
+      "population-q151",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "Text and embedded map legend use different bands; separately tested."
+  },
+  {
+    "page": 55,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u015",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q073",
+      "population-q074",
+      "population-q075",
+      "population-q076",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 56,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u016",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q077",
+      "population-q078",
+      "population-q079",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "Meme image inspected; app rating/download trivia omitted as irrelevant to population knowledge."
+  },
+  {
+    "page": 57,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u017",
+      "population-u028",
+      "population-u029",
+      "population-u030"
+    ],
+    "question_ids": [
+      "population-q080",
+      "population-q081",
+      "population-q082",
+      "population-q083",
+      "population-q084",
+      "population-q085",
+      "population-q086",
+      "population-q150",
+      "population-q151",
+      "population-q152",
+      "population-q153",
+      "population-q154",
+      "population-q155",
+      "population-q161"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 58,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u017"
+    ],
+    "question_ids": [
+      "population-q080",
+      "population-q081",
+      "population-q082",
+      "population-q083",
+      "population-q084",
+      "population-q085",
+      "population-q086",
+      "population-q161"
+    ],
+    "notes": "Repeated initiatives merged with pages 57–59."
+  },
+  {
+    "page": 59,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u017",
+      "population-u030"
+    ],
+    "question_ids": [
+      "population-q080",
+      "population-q081",
+      "population-q082",
+      "population-q083",
+      "population-q084",
+      "population-q085",
+      "population-q086",
+      "population-q154",
+      "population-q155",
+      "population-q161"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 60,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u018",
+      "population-u031"
+    ],
+    "question_ids": [
+      "population-q087",
+      "population-q088",
+      "population-q089",
+      "population-q090",
+      "population-q091",
+      "population-q092",
+      "population-q093",
+      "population-q156",
+      "population-q157"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 61,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u019",
+      "population-u029",
+      "population-u031"
+    ],
+    "question_ids": [
+      "population-q094",
+      "population-q095",
+      "population-q096",
+      "population-q097",
+      "population-q098",
+      "population-q099",
+      "population-q100",
+      "population-q101",
+      "population-q102",
+      "population-q103",
+      "population-q104",
+      "population-q152",
+      "population-q153",
+      "population-q156",
+      "population-q157"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 62,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u020",
+      "population-u028",
+      "population-u029",
+      "population-u030",
+      "population-u031"
+    ],
+    "question_ids": [
+      "population-q105",
+      "population-q106",
+      "population-q107",
+      "population-q108",
+      "population-q109",
+      "population-q150",
+      "population-q151",
+      "population-q152",
+      "population-q153",
+      "population-q154",
+      "population-q155",
+      "population-q156",
+      "population-q157"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 63,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u021",
+      "population-u031"
+    ],
+    "question_ids": [
+      "population-q110",
+      "population-q111",
+      "population-q112",
+      "population-q113",
+      "population-q114",
+      "population-q115",
+      "population-q116",
+      "population-q156",
+      "population-q157"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 64,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u021",
+      "population-u031"
+    ],
+    "question_ids": [
+      "population-q110",
+      "population-q111",
+      "population-q112",
+      "population-q113",
+      "population-q114",
+      "population-q115",
+      "population-q116",
+      "population-q156",
+      "population-q157"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 65,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u022",
+      "population-u031"
+    ],
+    "question_ids": [
+      "population-q117",
+      "population-q118",
+      "population-q119",
+      "population-q120",
+      "population-q156",
+      "population-q157"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 66,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u023",
+      "population-u028",
+      "population-u030",
+      "population-u031"
+    ],
+    "question_ids": [
+      "population-q121",
+      "population-q122",
+      "population-q123",
+      "population-q124",
+      "population-q125",
+      "population-q150",
+      "population-q151",
+      "population-q154",
+      "population-q155",
+      "population-q156",
+      "population-q157"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 67,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u024",
+      "population-u028",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q126",
+      "population-q127",
+      "population-q128",
+      "population-q129",
+      "population-q130",
+      "population-q150",
+      "population-q151",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 68,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u025",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q131",
+      "population-q132",
+      "population-q133",
+      "population-q134",
+      "population-q135",
+      "population-q136",
+      "population-q137",
+      "population-q138",
+      "population-q139",
+      "population-q140",
+      "population-q141",
+      "population-q142",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "News clipping describes a proposal, not enacted reform."
+  },
+  {
+    "page": 69,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u025",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q131",
+      "population-q132",
+      "population-q133",
+      "population-q134",
+      "population-q135",
+      "population-q136",
+      "population-q137",
+      "population-q138",
+      "population-q139",
+      "population-q140",
+      "population-q141",
+      "population-q142",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "Map, regional table, caption and status note inspected; proposed status preserved."
+  },
+  {
+    "page": 70,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u024",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q126",
+      "population-q127",
+      "population-q128",
+      "population-q129",
+      "population-q130",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 71,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u026",
+      "population-u031",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q143",
+      "population-q144",
+      "population-q145",
+      "population-q146",
+      "population-q156",
+      "population-q157",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  },
+  {
+    "page": 72,
+    "chapter_id": "population",
+    "text_reviewed": true,
+    "visual_reviewed": true,
+    "unit_ids": [
+      "population-u027",
+      "population-u028",
+      "population-u030",
+      "population-u031",
+      "population-u032"
+    ],
+    "question_ids": [
+      "population-q147",
+      "population-q148",
+      "population-q149",
+      "population-q150",
+      "population-q151",
+      "population-q154",
+      "population-q155",
+      "population-q156",
+      "population-q157",
+      "population-q158",
+      "population-q159"
+    ],
+    "notes": "Body text, emphasis, small notes and any illustrations inspected; decorative credits/logos omitted."
+  }
+]
